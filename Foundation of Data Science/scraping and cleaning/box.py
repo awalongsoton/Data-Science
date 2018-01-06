@@ -226,7 +226,7 @@ def gross_by_actor():
     final_url=util.oriurl('view','pagenum',view,pagenum)
     filenum=0
     for i in final_url:
-        info=util.generate_info(i,'#801-845','Sort:')
+        info=util.generate_info(i,'#801-848','Sort:')
         info=info[1:]
         info=info[9:]
         head=['ROW','Person','Total Gross(Million)','Movie involved','Average Gross for each movie','Most profitbale movie','Gross of most profitable']
