@@ -1,0 +1,846 @@
+,Person,Total Gross(Million),Movie involved,Average Gross for each movie,Most profitbale movie,Gross of most profitable
+0,Samuel L. Jackson,5149100.0,73.0,70500.0,The Avengers,623400.0
+1,Harrison Ford,4955500.0,42.0,118000.0,Star Wars: The Force Awakens,936700.0
+2,Tom Hanks,4522900.0,47.0,96200.0,Toy Story 3,415000.0
+3,Morgan Freeman,4515800.0,62.0,72800.0,The Dark Knight,534900.0
+4,"Robert Downey, Jr.",4281300.0,54.0,79300.0,The Avengers,623400.0
+5,Eddie Murphy,3811100.0,39.0,97700.0,Shrek 2,441200.0
+6,Tom Cruise,3775400.0,39.0,96800.0,War of the Worlds,234300.0
+7,Stanley Tucci,3758100.0,52.0,72300.0,Beauty and the Beast,504000.0
+8,Scarlett Johansson,3674900.0,40.0,91900.0,The Avengers,623400.0
+9,Ian McKellen,3654400.0,32.0,114200.0,Beauty and the Beast,504000.0
+10,Johnny Depp,3541200.0,46.0,77000.0,Dead Man's Chest,423300.0
+11,Anthony Daniels,3420700.0,8.0,427600.0,Star Wars: The Force Awakens,936700.0
+12,Michael Caine,3396500.0,59.0,57600.0,The Dark Knight,534900.0
+13,Gary Oldman,3377400.0,40.0,84400.0,The Dark Knight,534900.0
+14,Robin Williams,3279300.0,49.0,66900.0,Night at the Museum,250900.0
+15,Robert DeNiro,3233700.0,81.0,39900.0,Meet the Fockers,279300.0
+16,Emma Watson,3206400.0,18.0,178100.0,Beauty and the Beast,504000.0
+17,Will Smith,3205000.0,25.0,128199.99999999999,Suicide Squad,325100.0
+18,Bruce Willis,3189400.0,60.0,53200.0,Sixth Sense,293500.0
+19,Stellan Skarsgard,3175000.0,43.0,73800.0,The Avengers,623400.0
+20,Matt Damon,3163000.0,41.0,77100.0,The Martian,228400.0
+21,Andy Serkis,3037400.0,24.0,126600.0,Star Wars: The Force Awakens,936700.0
+22,Cameron Diaz,3031700.0,34.0,89200.0,Shrek 2,441200.0
+23,Woody Harrelson,2995300.0,55.0,54500.0,Catching Fire,424700.0
+24,Orlando Bloom,2988400.0,18.0,166000.0,Dead Man's Chest,423300.0
+25,Liam Neeson,2954400.0,66.0,44800.0,The Phantom Menace,474500.0
+26,Bradley Cooper,2947500.0,26.0,113400.0,Guardians of the Galaxy 2,389800.0
+27,Ralph Fiennes,2903100.0,37.0,78500.0,Harry Potter / Deathly Hallows (P2),381000.0
+28,Don Cheadle,2885500.0,34.0,84900.0,Avengers: Age of Ultron,459000.0
+29,Cate Blanchett,2850000.0,42.0,67900.0,Return of the King,377800.0
+30,Ben Stiller,2829100.0,38.0,74500.0,Meet the Fockers,279300.0
+31,Helena Bonham Carter,2822000.0,36.0,78400.0,Harry Potter / Deathly Hallows (P2),381000.0
+32,Vin Diesel,2813800.0,22.0,127900.0,Guardians of the Galaxy 2,389800.0
+33,Elizabeth Banks,2811700.0,36.0,78100.0,Catching Fire,424700.0
+34,Dwayne Johnson,2807400.0,26.0,108000.0,Furious 7,353000.0
+35,Julia Roberts,2780400.0,43.0,64700.0,Ocean's Eleven,183400.0
+36,Mark Wahlberg,2773300.0,39.0,71100.0,Transformers 4,245400.0
+37,Owen Wilson,2772600.0,41.0,67600.0,Night at the Museum,250900.0
+38,Brad Pitt,2721100.0,42.0,64800.0,World War Z,202400.0
+39,Idris Elba,2710800.0,30.0,90400.0,Avengers: Age of Ultron,459000.0
+40,Tommy Lee Jones,2693100.0,46.0,58500.0,Men in Black,250700.0
+41,Adam Sandler,2661000.0,32.0,83200.0,Hotel Transylvania 2,169700.0
+42,Steve Carell,2649300.0,28.0,94600.0,Despicable Me 2,368100.0
+43,Zoe Saldana,2639800.0,28.0,94300.0,Avatar,760500.0
+44,Jeremy Renner,2634600.0,23.0,114500.0,The Avengers,623400.0
+45,Daniel Radcliffe,2634400.0,17.0,155000.0,Harry Potter / Deathly Hallows (P2),381000.0
+46,Jonah Hill,2620100.0,29.0,90300.0,The LEGO Movie,257800.0
+47,Simon Pegg,2620100.0,20.0,131000.0,Star Wars: The Force Awakens,936700.0
+48,Ewan McGregor,2593600.0,48.0,54000.0,Beauty and the Beast,504000.0
+49,Tyrese Gibson,2565600.0,17.0,150900.0,Transformers 2,402100.0
+50,Jim Carrey,2545400.0,28.0,90900.0,The Grinch,260000.0
+51,Dustin Hoffman,2522100.0,43.0,58700.0,Meet the Fockers,279300.0
+52,Leonardo DiCaprio,2518300.0,25.0,100700.0,Titanic,658700.0
+53,Hugh Jackman,2515500.0,26.0,96700.0,X-Men: The Last Stand,234400.0
+54,Michael Keaton,2509200.0,38.0,66000.0,Toy Story 3,415000.0
+55,Jennifer Lawrence,2486700.0,19.0,130900.0,Catching Fire,424700.0
+56,Chris Evans,2482600.0,24.0,103400.0,The Avengers,623400.0
+57,Philip Seymour Hoffman,2463700.0,40.0,61600.0,Catching Fire,424700.0
+58,Sandra Bullock,2462600.0,35.0,70400.0,Minions,336000.0
+59,Sylvester Stallone,2440200.0,42.0,58100.0,Guardians of the Galaxy 2,389800.0
+60,Alec Baldwin,2437500.0,53.0,46000.0,Pearl Harbor,198500.0
+61,Anne Hathaway,2419500.0,26.0,93100.0,The Dark Knight Rises,448100.0
+62,Laurence Fishburne,2410600.0,39.0,61800.0,Batman v Superman,330400.0
+63,Nicolas Cage,2407100.0,57.0,42200.0,National Treasure: Book of Secrets,220000.0
+64,John Travolta,2398800.0,45.0,53300.0,Grease,188800.0
+65,Rupert Grint,2390500.0,13.0,183900.0,Harry Potter / Deathly Hallows (P2),381000.0
+66,Denzel Washington,2387900.0,45.0,53100.0,American Gangster,130199.99999999999
+67,Antonio Banderas,2386400.0,43.0,55500.0,Shrek 2,441200.0
+68,Michelle Rodriguez,2368000.0,19.0,124600.0,Avatar,760500.0
+69,Kathy Bates,2330400.0,47.0,49600.0,Titanic,658700.0
+70,Ben Affleck,2288800.0,38.0,60200.0,Batman v Superman,330400.0
+71,Sigourney Weaver,2280100.0,47.0,48500.0,Avatar,760500.0
+72,Jon Voight,2267300.0,35.0,64800.0,Transformers,319200.0
+73,James Franco,2262000.0,41.0,55200.0,Spider-Man,403700.0
+74,Carrie Fisher,2258500.0,17.0,132900.0,Star Wars: The Force Awakens,936700.0
+75,John Goodman,2230800.0,40.0,55800.0,"Monsters, Inc.",289900.0
+76,Christian Bale,2215800.0,37.0,59900.0,The Dark Knight,534900.0
+77,Anthony Hopkins,2212500.0,57.0,38800.0,Mission: Impossible II,215400.0
+78,Mike Myers,2211400.0,15.0,147400.0,Shrek 2,441200.0
+79,Seth Rogen,2208300.0,25.0,88300.0,Kung Fu Panda,215400.0
+80,Kurt Russell,2208200.0,37.0,59700.0,Guardians of the Galaxy 2,389800.0
+81,Will Ferrell,2192500.0,32.0,68500.0,The LEGO Movie,257800.0
+82,Hugo Weaving,2189400.0,19.0,115200.0,Fellowship of the Ring,315500.0
+83,Kristen Wiig,2182200.0,31.0,70400.0,Despicable Me 2,368100.0
+84,Angelina Jolie,2179500.0,32.0,68100.0,Maleficent,241400.0
+85,Mark Hamill,2176900.0,12.0,181400.0,Star Wars: The Force Awakens,936700.0
+86,Alan Tudyk,2174900.0,12.0,181200.0,Rogue One,532200.0
+87,Jamie Foxx,2154000.0,31.0,69500.0,The Amazing Spider-Man 2,202900.0
+88,Shia LaBeouf,2129200.0,21.0,101400.0,Transformers 2,402100.0
+89,Amy Adams,2126000.0,28.0,75900.0,Batman v Superman,330400.0
+90,Mel Gibson,2113900.0,34.0,62200.0,Signs,228000.0
+91,Forest Whitaker,2112900.0,55.0,38400.0,Rogue One,532200.0
+92,Kevin Costner,2095800.0000000002,38.0,55200.0,Man of Steel,291000.0
+93,Josh Hutcherson,2094699.9999999998,17.0,123200.0,Catching Fire,424700.0
+94,Christopher Walken,2093000.0,62.0,33800.0,The Jungle Book,364000.0
+95,Chris Pratt,2083199.9999999998,15.0,138900.0,Jurassic World,652300.0
+96,George Clooney,2078800.0000000002,34.0,61100.0,Gravity,274100.0
+97,Natalie Portman,2077600.0,30.0,69300.0,The Phantom Menace,474500.0
+98,Julianne Moore,2075900.0,58.0,35800.0,Mockingjay Part 1,337100.0
+99,Sally Field,2075600.0,28.0,74100.0,Forrest Gump,330300.0
+100,Chris Hemsworth,2069900.0,16.0,129400.0,The Avengers,623400.0
+101,Ben Kingsley,2066000.0,52.0,39700.0,Iron Man 3,409000.0
+102,Channing Tatum,2059199.9999999998,32.0,64400.00000000001,The LEGO Movie,257800.0
+103,Bill Murray,2054500.0,43.0,47800.0,The Jungle Book,364000.0
+104,Queen Latifah,2049900.0,31.0,66100.0,Ice Age 3,196600.0
+105,Meryl Streep,2038400.0,53.0,38500.0,Mamma Mia!,144100.0
+106,Marisa Tomei,2029800.0,44.0,46100.0,Captain America 3,408100.0
+107,Karl Urban,2008400.0,19.0,105700.0,Return of the King,377800.0
+108,Jeffrey Wright,2006100.0,26.0,77200.0,Catching Fire,424700.0
+109,Peter Mayhew,1997400.0,4.0,499400.0,Star Wars: The Force Awakens,936700.0
+110,Steve Coogan,1989700.0,28.0,71100.0,Despicable Me 2,368100.0
+111,Halle Berry,1985300.0,31.0,64000.0,X-Men: The Last Stand,234400.0
+112,John Leguizamo,1982000.0,53.0,37400.0,Ice Age 3,196600.0
+113,John C. Reilly,1980700.0,37.0,53500.0,Guardians of the Galaxy,333200.0
+114,Keanu Reeves,1959400.0,46.0,42600.0,The Matrix Reloaded,281600.0
+115,Mark Ruffalo,1959300.0,35.0,56000.0,The Avengers,623400.0
+116,Kirsten Dunst,1940400.0,34.0,57100.0,Spider-Man,403700.0
+117,Giovanni Ribisi,1928400.0,32.0,60300.0,Avatar,760500.0
+118,Jada Pinkett-Smith,1927700.0,24.0,80300.0,The Matrix Reloaded,281600.0
+119,Matthew McConaughey,1925900.0,38.0,50700.0,Sing,270300.0
+120,Paul Giamatti,1904500.0,46.0,41400.0,The Hangover Part II,254500.0
+121,Jason Bateman,1892000.0,31.0,61000.0,Zootopia,341300.0
+122,Elijah Wood,1889300.0,37.0,51100.0,Return of the King,377800.0
+123,Arnold Schwarzenegger,1885000.0,30.0,62800.0,Terminator 2,205900.0
+124,Anthony Mackie,1869200.0,33.0,56600.0,Avengers: Age of Ultron,459000.0
+125,Judi Dench,1845600.0,34.0,54300.0,Skyfall,304400.0
+126,James Marsden,1845300.0,32.0,57700.0,X-Men: The Last Stand,234400.0
+127,Brendan Gleeson,1838500.0,45.0,40900.0,Harry Potter / Goblet of Fire,290000.0
+128,Gwyneth Paltrow,1834000.0,33.0,55600.0,Iron Man 3,409000.0
+129,Paul Rudd,1829700.0,33.0,55400.0,Captain America 3,408100.0
+130,Danny DeVito,1829000.0,46.0,39800.0,The Lorax,214000.0
+131,Kristen Stewart,1819900.0,30.0,60700.0,The Twilight Saga: Eclipse,300500.0
+132,Robert Duvall,1814400.0,55.0,33000.0,Deep Impact,140500.0
+133,Russell Crowe,1797500.0,33.0,54500.0,Man of Steel,291000.0
+134,Jack Nicholson,1795500.0,34.0,52800.0,Batman,251200.0
+135,Ed Harris,1793000.0,51.0,35200.0,National Treasure: Book of Secrets,220000.0
+136,Liam Hemsworth,1792000.0,11.0,162900.0,Catching Fire,424700.0
+137,Diane Lane,1790200.0,41.0,43700.0,Inside Out,356500.0
+138,Steve Martin,1786000.0,37.0,48300.0,Home,177400.0
+139,Vince Vaughn,1784000.0,35.0,51000.0,The Lost World,229100.0
+140,Alan Rickman,1783400.0,27.0,66100.0,Harry Potter / Deathly Hallows (P2),381000.0
+141,Jeff Bridges,1779700.0,53.0,33600.0,Iron Man,318400.0
+142,Michael Douglas,1776900.0,36.0,49400.0,Ant-Man,180200.0
+143,Brian Cox,1776500.0,45.0,39500.0,X2: X-Men United,214900.0
+144,Tim Allen,1763000.0,20.0,88100.0,Toy Story 3,415000.0
+145,Ryan Reynolds,1752200.0,33.0,53100.0,Deadpool,363100.0
+146,Dennis Quaid,1751800.0,56.0,31300.0,The Day After Tomorrow,186700.0
+147,Chris Pine,1750400.0,20.0,87500.0,Wonder Woman,412600.0
+148,Robert Pattinson,1744800.0,15.0,116300.0,The Twilight Saga: Eclipse,300500.0
+149,Bonnie Hunt,1741700.0,19.0,91700.0,Zootopia,341300.0
+200,Jackie Chan,1732300.0,31.0,55900.0,Rush Hour 2,226200.0
+201,Nicole Kidman,1729000.0,47.0,36800.0,Happy Feet,198000.0
+202,Billy Burke,1719700.0,15.0,114600.0,The Twilight Saga: Eclipse,300500.0
+203,Geoffrey Rush,1714300.0,30.0,57100.0,Pirates of the Caribbean 3,309400.0
+204,Paul Bettany,1713100.0,22.0,77900.0,Avengers: Age of Ultron,459000.0
+205,Clint Eastwood,1710900.0,46.0,37200.0,Gran Torino,148100.0
+206,Jon Favreau,1679100.0,19.0,88400.0,Iron Man 3,409000.0
+207,Jude Law,1671100.0,40.0,41800.0,Sherlock Holmes,209000.0
+208,Chris Cooper,1671000.0,35.0,47700.0,The Amazing Spider-Man 2,202900.0
+209,Christopher Lee,1666400.0,8.0,208300.0,Revenge of the Sith,380300.0
+210,Charlize Theron,1651700.0,36.0,45900.0,Hancock,227900.0
+211,Willem Dafoe,1646500.0,55.0,29900.0,Spider-Man,403700.0
+212,Paul Walker,1644400.0,19.0,86500.0,Furious 7,353000.0
+213,Robert Redford,1643400.0,31.0,53000.0,Captain America 2,259800.0
+214,Sean Bean,1641800.0,31.0,53000.0,Fellowship of the Ring,315500.0
+215,Jennifer Aniston,1627100.0,32.0,50800.0,Bruce Almighty,242800.0
+216,Rachel McAdams,1624700.0,24.0,67700.0,Doctor Strange,232600.0
+217,Jack Black,1616600.0,24.0,67400.0,King Kong,218100.0
+218,Drew Barrymore,1614600.0,36.0,44900.0,E.T.,435100.0
+219,Josh Brolin,1610700.0,36.0,44700.0,Avengers: Age of Ultron,459000.0
+220,Clark Gregg,1609700.0,16.0,100600.0,The Avengers,623400.0
+221,Michael Sheen,1603100.0,28.0,57300.0,Alice in Wonderland,334200.0
+222,Chris Rock,1603000.0,23.0,69700.0,Madagascar 3,216400.0
+223,Bryce Dallas Howard,1591600.0,11.0,144700.0,Jurassic World,652300.0
+224,Daniel Craig,1586300.0,25.0,63500.0,Skyfall,304400.0
+225,Joseph Gordon-Levitt,1578600.0,34.0,46400.0,The Dark Knight Rises,448100.0
+226,Jonathan Pryce,1567500.0,32.0,49000.0,Dead Man's Chest,423300.0
+227,Danny Glover,1565700.0,43.0,36400.0,2012,166100.0
+228,Keira Knightley,1564700.0,25.0,62600.0,Dead Man's Chest,423300.0
+229,Gal Gadot,1563900.0,10.0,156400.0,Wonder Woman,412600.0
+230,Naomie Harris,1563000.0,18.0,86800.0,Dead Man's Chest,423300.0
+231,Emma Stone,1558700.0,19.0,82000.0,The Amazing Spider-Man,262000.0
+232,Emma Thompson,1558100.0,32.0,48700.0,Beauty and the Beast,504000.0
+233,Ice Cube,1554000.0,32.0,48600.0,22 Jump Street,191700.0
+234,Reese Witherspoon,1551300.0,32.0,48500.0,Sing,270300.0
+235,Sean Connery,1550600.0,37.0,41900.0,Indiana Jones and the Last Crusade,197200.0
+236,Bill Paxton,1549900.0,18.0,86100.0,Titanic,658700.0
+237,John Malkovich,1549600.0,50.0,31000.0,Transformers 3,352400.0
+238,Helen Mirren,1546600.0,46.0,33600.0,Monsters University,268500.0
+239,Liv Tyler,1545600.0,23.0,67200.0,Return of the King,377800.0
+240,Zach Galifianakis,1542500.0,20.0,77100.0,The Hangover,277300.0
+241,Justin Long,1541000.0,35.0,44000.0,Alvin and the Chipmunks 2,219600.0
+242,Tobey Maguire,1537500.0,14.0,109800.0,Spider-Man,403700.0
+243,Patrick Stewart,1534400.0,21.0,73100.0,X-Men: The Last Stand,234400.0
+244,Viggo Mortensen,1530300.0,29.0,52800.0,Return of the King,377800.0
+245,Kevin Spacey,1530200.0,39.0,39200.0,Superman Returns,200100.0
+246,Rene Russo,1523900.0,22.0,69300.0,Thor: The Dark World,206400.0
+247,Jeff Goldblum,1523300.0,23.0,66200.0,Jurassic Park,402500.0
+248,Kevin Bacon,1519200.0,48.0,31700.0,Apollo 13,173800.0
+249,Kevin Hart,1517600.0,22.0,69000.0,The Secret Life of Pets,368400.0
+250,Anna Faris,1516500.0,22.0,68900.0,Alvin and the Chipmunks 2,219600.0
+251,Kate Winslet,1513000.0,32.0,47300.0,Titanic,658700.0
+252,Luke Evans,1509700.0,12.0,125800.0,Beauty and the Beast,504000.0
+253,Cedric the Entertainer,1509200.0,28.0,53900.0,Madagascar 3,216400.0
+254,Jason Statham,1509000.0,32.0,47200.0,Furious 7,353000.0
+255,Kevin Kline,1496000.0,40.0,37400.0,Beauty and the Beast,504000.0
+256,Chris 'Ludacris' Bridges,1495400.0,13.0,115000.0,Furious 7,353000.0
+257,Pierce Brosnan,1486700.0,39.0,38100.0,Mrs. Doubtfire,219200.0
+258,Djimon Hounsou,1486100.0,19.0,78200.0,Furious 7,353000.0
+259,Kellan Lutz,1482800.0,16.0,92700.0,The Twilight Saga: Eclipse,300500.0
+260,Taylor Lautner,1482200.0,8.0,185300.0,The Twilight Saga: Eclipse,300500.0
+261,Ian McDiarmid,1474800.0,4.0,368700.0,The Phantom Menace,474500.0
+262,Leslie Mann,1474800.0,25.0,59000.0,Big Daddy,163500.0
+263,Josh Duhamel,1466300.0,14.0,104700.0,Transformers 2,402100.0
+264,Tom Hardy,1463400.0,19.0,77000.0,The Dark Knight Rises,448100.0
+265,Benedict Cumberbatch,1461900.0,15.0,97500.0,The Hobbit 2,258399.99999999997
+266,Lupita Nyong'o,1458400.0,5.0,291700.0,Star Wars: The Force Awakens,936700.0
+267,Al Pacino,1457300.0,39.0,37400.0,The Godfather,135000.0
+268,Rose Byrne,1455100.0,25.0,58200.0,Bridesmaids,169100.0
+269,Aaron Eckhart,1450100.0,31.0,46800.0,The Dark Knight,534900.0
+270,Michelle Pfeiffer,1448900.0,37.0,39200.0,Batman Returns,162800.0
+271,Susan Sarandon,1436400.0,62.0,23200.0,Enchanted,127800.0
+272,Martin Freeman,1429700.0,13.0,110000.0,Captain America 3,408100.0
+273,Famke Janssen,1428600.0,31.0,46100.0,X-Men: The Last Stand,234400.0
+274,Gerard Butler,1427500.0,29.0,49200.0,How to Train Your Dragon,217600.0
+275,Carla Gugino,1419100.0,26.0,54600.0,Night at the Museum,250900.0
+276,Richard Gere,1413900.0,44.0,32100.0,Pretty Woman,178400.0
+277,Dakota Fanning,1408200.0,23.0,61200.0,The Twilight Saga: Eclipse,300500.0
+278,Terrence Howard,1399000.0,34.0,41100.0,Iron Man,318400.0
+279,Tom Hiddleston,1398400.0,14.0,99900.0,The Avengers,623400.0
+280,Kevin James,1390000.0,13.0,106900.0,Hitch,179500.0
+281,Josh Gad,1382000.0,14.0,98700.0,Beauty and the Beast,504000.0
+282,Ashley Greene,1368800.0,11.0,124400.0,The Twilight Saga: Eclipse,300500.0
+283,Glenn Close,1361100.0,32.0,42500.0,Guardians of the Galaxy,333200.0
+284,William Hurt,1360500.0,30.0,45400.0,Captain America 3,408100.0
+285,Billy Crystal,1358600.0,19.0,71500.0,"Monsters, Inc.",289900.0
+286,Matthew Broderick,1351700.0,34.0,39800.0,Lion King,422800.0
+287,Colin Farrell,1350100.0,35.0,38600.0,Fantastic Beasts and Where To Find Them,234000.0
+288,Oscar Isaac,1346400.0,17.0,79200.0,Star Wars: The Force Awakens,936700.0
+289,Sacha Baron Cohen,1345900.0,12.0,112200.0,Madagascar 3,216400.0
+290,"Cuba Gooding, Jr.",1335000.0,28.0,47700.0,Pearl Harbor,198500.0
+291,Frances McDormand,1330900.0,34.0,39100.0,Transformers 3,352400.0
+292,Sam Worthington,1329900.0,15.0,88700.0,Avatar,760500.0
+293,Jena Malone,1320900.0,23.0,57400.0,Catching Fire,424700.0
+294,Viola Davis,1315900.0,25.0,52600.0,Suicide Squad,325100.0
+295,Ian Holm,1307600.0,30.0,43600.0,Return of the King,377800.0
+296,Frank Grillo,1304500.0,16.0,81500.0,Captain America 3,408100.0
+297,Jackson Rathbone,1302500.0,5.0,260500.0,The Twilight Saga: Eclipse,300500.0
+298,Cary Elwes,1297800.0,30.0,43300.0,Twister,241700.0
+299,Common,1292900.0,19.0,68000.0,Suicide Squad,325100.0
+400,Martin Lawrence,1291000.0,24.0,53800.0,Wild Hogs,168300.0
+401,Michael Fassbender,1286100.0,27.0,47600.0,X-Men: Days of Future Past,233900.0
+402,Tilda Swinton,1281000.0,33.0,38800.0,The Chronicles of Narnia,291700.0
+403,Jennifer Lopez,1254400.0,27.0,46500.0,Home,177400.0
+404,William H. Macy,1246200.0,38.0,32800.0,Jurassic Park III,181200.0
+405,Diane Keaton,1239200.0,37.0,33500.0,The Godfather,135000.0
+406,Jeremy Irons,1239000.0,26.0,47700.0,Lion King,422800.0
+407,Mark Strong,1231600.0,36.0,34200.0,Sherlock Holmes,209000.0
+408,Catherine Zeta-Jones,1229300.0,24.0,51200.0,Chicago,170700.0
+409,Rachel Weisz,1229200.0,35.0,35100.0,Oz The Great and Powerful,234900.0
+410,Colin Firth,1226900.0,34.0,36100.0,Mamma Mia!,144100.0
+411,Jesse Eisenberg,1221800.0,27.0,45300.0,Batman v Superman,330400.0
+412,Irrfan Khan,1221300.0,8.0,152700.0,Jurassic World,652300.0
+413,Guy Pearce,1212500.0,33.0,36700.0,Iron Man 3,409000.0
+414,Albert Brooks,1208300.0,21.0,57500.0,Finding Dory,486300.0
+415,Tom Wilkinson,1207200.0,44.0,27400.0,Rush Hour,141200.0
+416,Ed Helms,1205900.0,13.0,92800.0,The Hangover,277300.0
+417,Michael Clarke Duncan,1201700.0,21.0,57200.0,Armageddon,201600.0
+418,Renee Zellweger,1197900.0,28.0,42800.0,Chicago,170700.0
+419,Russell Brand,1187400.0,10.0,118700.0,Despicable Me 2,368100.0
+420,Sebastian Stan,1186000.0,15.0,79100.0,Captain America 3,408100.0
+421,Marion Cotillard,1183300.0,20.0,59200.0,The Dark Knight Rises,448100.0
+422,Bryan Cranston,1179200.0,19.0,62100.0,Madagascar 3,216400.0
+423,Alfred Molina,1173700.0,41.0,28600.0,Spider-Man 2,373600.0
+424,Mads Mikkelsen,1171800.0,15.0,78100.0,Rogue One,532200.0
+425,Jack Davenport,1168000.0,9.0,129800.00000000001,Dead Man's Chest,423300.0
+426,Ray Stevenson,1166800.0,16.0,72900.0,Thor: The Dark World,206400.0
+427,Ewen Bremner,1161800.0,16.0,72600.0,Wonder Woman,412600.0
+428,Jessica Chastain,1161100.0,19.0,61100.0,The Martian,228400.0
+429,Jordana Brewster,1157800.0,7.0,165400.0,Furious 7,353000.0
+430,John Cusack,1157600.0,48.0,24100.0,2012,166100.0
+431,Liev Schreiber,1155500.0,33.0,35000.0,X-Men Origins: Wolverine,179900.0
+432,Thomas Haden Church,1154400.0,18.0,64099.99999999999,Spider-Man 3,336500.0
+433,Greg Kinnear,1153500.0,36.0,32000.0,As Good as It Gets,148500.0
+434,Meg Ryan,1151700.0,29.0,39700.0,Top Gun,179800.0
+435,Isla Fisher,1134800.0,18.0,63000.0,Wedding Crashers,209300.0
+436,Justin Bartha,1134000.0,12.0,94500.0,The Hangover,277300.0
+437,James McAvoy,1131700.0,22.0,51400.0,X-Men: Days of Future Past,233900.0
+438,Holly Hunter,1130000.0,29.0,39000.0,Batman v Superman,330400.0
+439,Chiwetel Ejiofor,1127500.0,19.0,59300.0,Doctor Strange,232600.0
+440,Elizabeth Olsen,1126500.0,15.0,75100.0,Avengers: Age of Ultron,459000.0
+441,Craig T. Nelson,1122100.0,21.0,53400.0,The Incredibles,261399.99999999997
+442,Christopher Mintz-Plasse,1118900.0,13.0,86100.0,How to Train Your Dragon,217600.0
+443,Allison Janney,1118000.0,20.0,55900.0,Minions,336000.0
+444,Christina Applegate,1117100.0,21.0,53200.0,Alvin and the Chipmunks 2,219600.0
+445,Jim Broadbent,1112700.0,43.0,25900.0,Harry Potter 6,302000.0
+446,Melissa McCarthy,1111600.0,13.0,85500.0,Bridesmaids,169100.0
+447,Rosario Dawson,1110500.0,37.0,30000.0,Men in Black II,190400.0
+448,Mila Kunis,1108500.0,18.0,61600.0,Oz The Great and Powerful,234900.0
+449,Brendan Fraser,1105600.0,29.0,38100.0,Mummy Returns,202000.0
+450,Abigail Breslin,1103900.0,20.0,55200.0,Signs,228000.0
+451,Megan Fox,1098900.0,10.0,109900.0,Transformers 2,402100.0
+452,Taraji P. Henson,1094000.0,20.0,54700.0,The Karate Kid,176600.0
+453,Salma Hayek,1092400.0,22.0,49700.0,Grown Ups,162000.0
+454,Anton Yelchin,1087400.0,20.0,54400.0,Star Trek,257700.0
+455,Kiefer Sutherland,1087200.0,35.0,31100.0,Monsters Vs. Aliens,198400.0
+456,Kim Basinger,1085000.0,35.0,31000.0,Batman,251200.0
+457,Paul Newman,1082000.0,20.0,54100.0,Cars,244100.0
+458,Omar Sy,1074700.0,7.0,153500.0,Jurassic World,652300.0
+459,Jay Baruchel,1074400.0,18.0,59700.0,How to Train Your Dragon,217600.0
+460,Edward Norton,1071700.0,25.0,42900.0,The Incredible Hulk,134800.0
+461,Eric Bana,1068300.0,17.0,62800.0,Star Trek,257700.0
+462,Emily Blunt,1065500.0,26.0,41000.0,Into the Woods,128000.0
+463,Jamie Lee Curtis,1064400.0,33.0,32299.999999999996,True Lies,146300.0
+464,Tyler Perry,1061500.0,18.0,59000.0,Gone Girl,167800.0
+465,Regina Hall,1059900.0,18.0,58900.0,Scary Movie,157000.0
+466,Billy Bob Thornton,1056800.0,35.0,30200.0,Armageddon,201600.0
+467,Sam Rockwell,1054200.0,34.0,31000.0,Iron Man 2,312400.0
+468,Jodie Foster,1051800.0,26.0,40500.0,Silence of the Lambs,130699.99999999999
+469,Kate Beckinsale,1046099.9999999999,25.0,41800.0,Pearl Harbor,198500.0
+470,Ashley Judd,1044200.0,28.0,37300.0,Divergent,150900.0
+471,Val Kilmer,1041300.0,35.0,29800.0,Batman Forever,184000.0
+472,Julia Stiles,1041300.0,20.0,52100.0,The Bourne Ultimatum,227500.0
+473,Lucy Liu,1038300.0,18.0,57700.0,Kung Fu Panda,215400.0
+474,Octavia Spencer,1032200.0,12.0,86000.0,Zootopia,341300.0
+475,Monica Bellucci,1027900.0000000001,16.0,64200.0,Passion of the Christ,370800.0
+476,Demi Moore,1025300.0,32.0,32000.0,Ghost,217600.0
+477,Joaquin Phoenix,1013200.0,27.0,37500.0,Signs,228000.0
+478,Zac Efron,1012000.0,19.0,53300.0,The Lorax,214000.0
+479,Jennifer Garner,1000800.0,22.0,45500.0,Juno,143500.0
+480,Anna Paquin,997600.0,19.0,52500.0,X-Men: The Last Stand,234400.0
+481,Helen Hunt,996900.0,20.0,49800.0,Twister,241700.0
+482,Lenny Kravitz,996900.0,4.0,249200.0,Catching Fire,424700.0
+483,Barbra Streisand,995400.0,15.0,66400.0,Meet the Fockers,279300.0
+484,Sarah Jessica Parker,990600.0,28.0,35400.0,Sex and the City,152600.0
+485,Bernie Mac,989600.0,14.0,70700.0,Ocean's Eleven,183400.0
+486,Maria Bello,988300.0,30.0,32900.0,Grown Ups,162000.0
+487,Jai Courtney,983000.0,11.0,89400.0,Suicide Squad,325100.0
+488,Laura Linney,979300.0,37.0,26500.0,Truman Show,125600.0
+489,Maggie Gyllenhaal,976900.0,26.0,37600.0,The Dark Knight,534900.0
+490,Wesley Snipes,976500.0,31.0,31500.0,Blade II,82300.0
+491,John Boyega,975000.0,4.0,243700.0,Star Wars: The Force Awakens,936700.0
+492,Toni Collette,970400.0,37.0,26200.0,Sixth Sense,293500.0
+493,Christoph Waltz,969600.0,13.0,74600.0,Spectre,200100.0
+494,Anna Kendrick,964800.0,22.0,43900.0,Pitch Perfect 2,184300.0
+495,Seth Green,962800.0,20.0,48100.0,Goldmember,213300.0
+496,Amanda Seyfried,959100.0,24.0,40000.0,Les Miserables,148800.0
+497,Ashton Kutcher,957200.0,19.0,50400.0,Cheaper by the Dozen,138600.0
+498,Heath Ledger,955600.0,15.0,63700.0,The Dark Knight,534900.0
+499,Jessica Alba,952300.0,24.0,39700.0,Fantastic Four (2005),154700.0
+650,Kristen Bell,952000.0,18.0,52900.0,Frozen,400700.0
+651,Zooey Deschanel,951200.0,26.0,36600.0,Elf,173400.0
+652,Naomi Watts,949500.0,38.0,25000.0,King Kong,218100.0
+653,Randy Quaid,948700.0,38.0,25000.0,Independence Day,306200.0
+654,Benicio Del Toro,948500.0,31.0,30600.0,Guardians of the Galaxy,333200.0
+655,Ron Perlman,942000.0,23.0,41000.0,Fantastic Beasts and Where To Find Them,234000.0
+656,Jennifer Connelly,941900.0,33.0,28500.0,A Beautiful Mind,170700.0
+657,Daisy Ridley,936700.0,1.0,936700.0,Star Wars: The Force Awakens,936700.0
+658,Jake Gyllenhaal,933100.0,27.0,34600.0,The Day After Tomorrow,186700.0
+659,Johnny Knoxville,931200.0,16.0,58200.0,Ninja Turtles,191200.0
+660,Hugh Grant,930500.0,28.0,33200.0,Notting Hill,116100.0
+661,Jason Segel,929400.0,15.0,62000.0,Despicable Me,251500.0
+662,Julie Andrews,927300.0,14.0,66200.0,Despicable Me 3,263600.0
+663,Winona Ryder,916600.0,36.0,25500.0,Mr. Deeds,126300.0
+664,Joel David Moore,915100.0,14.0,65400.00000000001,Avatar,760500.0
+665,Ellen DeGeneres,912600.0,6.0,152100.0,Finding Dory,486300.0
+666,Casey Affleck,911500.0,23.0,39600.0,Interstellar,188000.0
+667,Rob Riggle,906800.0,12.0,75600.0,The Lorax,214000.0
+668,Charlie Sheen,905900.0,31.0,29200.0,Platoon,138500.0
+669,Thandie Newton,904000.0,23.0,39300.0,Mission: Impossible II,215400.0
+670,Dave Franco,902800.0,10.0,90300.0,The LEGO Movie,257800.0
+671,Cillian Murphy,899600.0,18.0,50000.0,Inception,292600.0
+672,Jason Sudeikis,896900.0,18.0,49800.0,We're the Millers,150400.0
+673,Rob Schneider,895100.0,17.0,52700.0,Big Daddy,163500.0
+674,Tim Robbins,890500.0,38.0,23400.0,War of the Worlds,234300.0
+675,Hugh Laurie,890300.0,17.0,52400.0,Monsters Vs. Aliens,198400.0
+676,Nicholas Hoult,887600.0,14.0,63400.0,X-Men: Days of Future Past,233900.0
+677,Diego Luna,886800.0,15.0,59100.0,Rogue One,532200.0
+678,Amanda Peet,882000.0,26.0,33900.0,2012,166100.0
+679,Angela Bassett,881100.0,25.0,35200.0,Green Lantern,116600.0
+680,Aaron Johnson,874300.0,12.0,72900.0,Avengers: Age of Ultron,459000.0
+681,Eva Mendes,873400.0,19.0,46000.0,Hitch,179500.0
+682,Carrie-Anne Moss,872500.0,17.0,51300.0,The Matrix Reloaded,281600.0
+683,Henry Cavill,868200.0,10.0,86800.0,Batman v Superman,330400.0
+684,Hayden Christensen,867700.0,10.0,86800.0,Revenge of the Sith,380300.0
+685,Sean Penn,867600.0,39.0,22200.0,Angry Birds,107500.0
+686,Matt Dillon,856000.0,39.0,21900.0,Something About Mary,176500.0
+687,Joan Allen,854300.0,24.0,35600.0,The Bourne Ultimatum,227500.0
+688,Jared Harris,851500.0,27.0,31500.0,Sherlock Holmes 2,186800.0
+689,Jon Hamm,845100.0,14.0,60400.0,Minions,336000.0
+690,Benjamin Bratt,843400.0,20.0,42200.0,Despicable Me 2,368100.0
+691,Mickey Rourke,842300.0,36.0,23400.0,Iron Man 2,312400.0
+692,Christopher Plummer,838900.0,20.0,41900.0,National Treasure,173000.0
+693,Ethan Hawke,830100.0,47.0,17700.0,Dead Poets Society,95900.0
+694,Robin Wright,828900.0,7.0,118400.0,Wonder Woman,412600.0
+695,Kate Hudson,825500.0,27.0,30600.0,Kung Fu Panda 3,143500.0
+696,Jet Li,822200.0,18.0,45700.0,Lethal Weapon 4,130400.0
+697,Leonard Nimoy,820300.0,11.0,74600.0,Star Trek,257700.0
+698,Penelope Cruz,817600.0,35.0,23400.0,Pirates of the Caribbean 4,241100.0
+699,Tom Holland,815200.0,7.0,116500.0,Captain America 3,408100.0
+700,Kenneth Branagh,814300.0,18.0,45200.0,Harry Potter / Chamber of Secrets,262000.0
+701,Neil Patrick Harris,811500.0,14.0,58000.0,Gone Girl,167800.0
+702,Jake Johnson,811100.0,9.0,90100.0,Jurassic World,652300.0
+703,Danny McBride,809700.0,18.0,45000.0,Tropic Thunder,110500.0
+704,Donnie Yen,804600.0,13.0,61900.0,Rogue One,532200.0
+705,Chris Tucker,797700.0,9.0,88600.0,Rush Hour 2,226200.0
+706,Nia Long,796500.0,22.0,36200.0,Big Momma's House,117600.0
+707,Topher Grace,796000.0,13.0,61200.0,Spider-Man 3,336500.0
+708,Nick Swardson,792500.0,13.0,61000.0,Grown Ups 2,133700.0
+709,Josh Lucas,791100.0,24.0,33000.0,A Beautiful Mind,170700.0
+710,Chloe Moretz,786700.0,20.0,39300.0,The Equalizer,101500.0
+711,Katherine Heigl,785400.0,18.0,43600.0,Knocked Up,148800.0
+712,Patrick Wilson,783300.0,20.0,39200.0,The Conjuring,137400.0
+713,Chris O'Donnell,779300.0,19.0,41000.0,Batman Forever,184000.0
+714,Evangeline Lilly,779200.0,4.0,194800.0,The Hobbit 2,258399.99999999997
+715,Melissa Leo,778200.0,30.0,25900.0,The Equalizer,101500.0
+716,Vera Farmiga,777700.0,24.0,32400.0,The Conjuring,137400.0
+717,Seth MacFarlane,777500.0,7.0,111100.0,Sing,270300.0
+718,John Slattery,774600.0,12.0,64599.99999999999,Iron Man 2,312400.0
+719,Uma Thurman,774400.0,31.0,25000.0,Pulp Fiction,107900.0
+720,Jessica Biel,772900.0,24.0,32200.000000000004,I Now Pronounce You Chuck and Larry,120100.0
+721,Karen Gillan,771200.0,5.0,154200.0,Guardians of the Galaxy 2,389800.0
+722,Marlon Wayans,765600.0,17.0,45000.0,Scary Movie,157000.0
+723,Ricky Gervais,764600.0,10.0,76500.0,Night at the Museum,250900.0
+724,Michael Cera,763100.0,15.0,50900.0,The LEGO Batman Movie,175800.0
+725,Bette Midler,754500.0,20.0,37700.0,First Wives Club,105500.0
+726,Alan Alda,753000.0,22.0,34200.0,What Women Want,182800.0
+727,Ryan Gosling,745800.0,22.0,33900.0,La La Land,151100.0
+728,Jemaine Clement,745100.0,13.0,57300.0,Moana,248800.0
+729,Christina Ricci,743700.0,35.0,21200.0,Addams Family,113500.0
+730,Billy Crudup,739300.0,26.0,28400.0,Mission: Impossible III,134000.0
+731,David Spade,738500.0,14.0,52800.0,Hotel Transylvania 2,169700.0
+732,Rebecca Hall,734800.0,19.0,38700.0,Iron Man 3,409000.0
+733,James Caviezel,730900.0,20.0,36500.0,Passion of the Christ,370800.0
+734,Ellen Page,730700.0,16.0,45700.0,Inception,292600.0
+735,Tea Leoni,730200.0,13.0,56200.0,Jurassic Park III,181200.0
+736,Lucas Black,730200.0,12.0,60800.0,Furious 7,353000.0
+737,Sharon Stone,722700.0,34.0,21300.0,Total Recall,119400.0
+738,Javier Bardem,722300.0,17.0,42500.0,Skyfall,304400.0
+739,Joey King,722200.0,10.0,72200.0,Oz The Great and Powerful,234900.0
+740,Michelle Monaghan,719300.0,19.0,37900.0,Mission: Impossible III,134000.0
+741,Sam Elliott,718800.0,23.0,31300.0,Hulk,132200.0
+742,Matthew Lillard,716700.0,25.0,28700.0,Scooby-Doo,153300.0
+743,Macaulay Culkin,712800.0,11.0,64800.0,Home Alone,285800.0
+744,Peter Sarsgaard,711900.0,27.0,26400.0,Green Lantern,116600.0
+745,Brittany Murphy,706900.0,16.0,44200.0,Happy Feet,198000.0
+746,Rosamund Pike,706800.0,19.0,37200.0,Gone Girl,167800.0
+747,Rhys Ifans,700200.0,28.0,25000.0,The Amazing Spider-Man,262000.0
+748,Andy Samberg,698200.0,12.0,58200.0,Hotel Transylvania 2,169700.0
+749,Zachary Levi,697000.0,5.0,139400.0,Alvin and the Chipmunks 2,219600.0
+950,Bridget Moynahan,696600.0,13.0,53600.0,"I, Robot",144800.0
+951,Timothy Olyphant,696000.0,22.0,31600.0,Live Free or Die Hard,134500.0
+952,Michelle Williams,693900.0,27.0,25700.0,Oz The Great and Powerful,234900.0
+953,Lisa Kudrow,688400.0,21.0,32800.0,The Boss Baby,175000.0
+954,Elle Fanning,685900.0,18.0,38100.0,Maleficent,241400.0
+955,Kelsey Grammer,684200.0,12.0,57000.0,Transformers 4,245400.0
+956,David Schwimmer,683000.0,10.0,68300.0,Madagascar 3,216400.0
+957,Rebecca Romijn,680400.0,8.0,85100.0,X-Men: The Last Stand,234400.0
+958,Frank Langella,679500.0,32.0,21200.0,Superman Returns,200100.0
+959,Josh Hartnett,678700.0,19.0,35700.0,Pearl Harbor,198500.0
+960,Rob Lowe,673000.0,24.0,28000.0,The Spy Who Shagged Me,206000.0
+961,Kat Dennings,672200.0,11.0,61100.0,Thor: The Dark World,206400.0
+962,Justin Timberlake,670100.0,14.0,47900.0,Trolls,153700.0
+963,Imelda Staunton,669900.0,15.0,44700.0,Harry Potter / Phoenix,292000.0
+964,Ben Whishaw,666800.0,13.0,51300.0,Skyfall,304400.0
+965,Goldie Hawn,665400.0,18.0,37000.0,First Wives Club,105500.0
+966,Andrew Garfield,663300.0,12.0,55300.0,The Amazing Spider-Man,262000.0
+967,Dan Stevens,662000.0,8.0,82700.0,Beauty and the Beast,504000.0
+968,Margot Robbie,661900.0,8.0,82700.0,Suicide Squad,325100.0
+969,Ginnifer Goodwin,657300.0,9.0,73000.0,Zootopia,341300.0
+970,Luke Wilson,656700.0,32.0,20500.0,Legally Blonde,96500.0
+971,Michael K. Williams,656100.0,15.0,43700.0,The Incredible Hulk,134800.0
+972,Miles Teller,651700.0,16.0,40700.0,Divergent,150900.0
+973,Morris Chestnut,648400.0,15.0,43200.0,Identity Thief,134500.0
+974,Maggie Smith,647600.0,22.0,29400.0,Sister Act,139600.0
+975,Michael Ealy,645600.0,13.0,49700.0,Think Like a Man,91500.0
+976,Charlie Day,641400.0,8.0,80200.0,The LEGO Movie,257800.0
+977,Tina Fey,640800.0,11.0,58300.0,Megamind,148400.0
+978,Jackie Earle Haley,639600.0,16.0,40000.0,Shutter Island,128000.0
+979,Ioan Gruffudd,631300.0,15.0,42100.0,San Andreas,155200.0
+980,Sarah Michelle Gellar,627400.0,13.0,48300.0,Scooby-Doo,153300.0
+981,Elizabeth Debicki,624700.0,6.0,104100.0,Guardians of the Galaxy 2,389800.0
+982,Jared Leto,622900.0,12.0,51900.0,Suicide Squad,325100.0
+983,Felicity Jones,622700.0,14.0,44500.0,Rogue One,532200.0
+984,Paula Patton,622100.0,13.0,47900.0,Mission: Impossible 4,209400.0
+985,Edgar Ramirez,620300.0,11.0,56400.0,The Bourne Ultimatum,227500.0
+986,Leslie Nielsen,617900.0,19.0,32500.0,Scary Movie 3,110000.0
+987,Larry the Cable Guy,617000.0,7.0,88100.0,Cars,244100.0
+988,Ansel Elgort,616000.0,7.0,88000.0,Divergent,150900.0
+989,Beyonce Knowles,613100.0,7.0,87600.0,Goldmember,213300.0
+990,Annette Bening,608000.0,27.0,22500.0,American Beauty,130100.0
+991,Adrien Brody,603200.0,32.0,18900.0,King Kong,218100.0
+992,Rebecca Ferguson,602200.0,7.0,86000.0,M:I - Rogue Nation,195000.0
+993,Taylor Kitsch,601800.0,10.0,60200.0,X-Men Origins: Wolverine,179900.0
+994,Paul Dano,601600.0,26.0,23100.0,Cowboys & Aliens,100200.0
+995,Katie Holmes,601500.0,23.0,26200.0,Batman Begins,206900.0
+996,Radha Mitchell,600000.0,24.0,25000.0,Olympus Has Fallen,98900.0
+997,Parker Posey,599700.0,33.0,18200.0,Superman Returns,200100.0
+998,Garrett Hedlund,598200.0,13.0,46000.0,Tron Legacy,172100.0
+999,Kyle Gallner,596000.0,14.0,42600.0,American Sniper,350100.0
+1000,John Corbett,591700.0,13.0,45500.0,My Big Fat Greek Wedding,241400.0
+1001,Dan Fogler,589500.0,12.0,49100.0,Fantastic Beasts and Where To Find Them,234000.0
+1002,Roger Moore,587800.0,15.0,39200.0,The Cannonball Run,72200.0
+1003,Rodrigo Santoro,584000.0,9.0,64900.00000000001,300,210600.0
+1004,Shailene Woodley,583200.0,8.0,72900.0,Divergent,150900.0
+1005,Derek Luke,582800.0,17.0,34300.0,Captain America,176700.0
+1006,Piper Perabo,581200.0,16.0,36300.0,Cheaper by the Dozen,138600.0
+1007,Courteney Cox,579500.0,14.0,41400.0,Bedtime Stories,110100.0
+1008,Adam Scott,578600.0,25.0,23100.0,Step Brothers,100500.0
+1009,James Gandolfini,578200.0,28.0,20600.0,Crimson Tide,91400.0
+1010,Eva Green,574900.0,12.0,47900.0,Casino Royale,167400.0
+1011,America Ferrera,574600.0,14.0,41000.0,How to Train Your Dragon,217600.0
+1012,Patrick Swayze,574500.0,24.0,23900.0,Ghost,217600.0
+1013,Sharlto Copley,573300.0,10.0,57300.0,Maleficent,241400.0
+1014,Jamie Bell,572800.0,18.0,31800.0,King Kong,218100.0
+1015,Olivia Wilde,571500.0,21.0,27200.0,Tron Legacy,172100.0
+1016,Jamie Chung,570900.0,9.0,63400.0,The Hangover Part II,254500.0
+1017,Chadwick Boseman,570100.0,5.0,114000.0,Captain America 3,408100.0
+1018,Alice Eve,567400.0,15.0,37800.0,Star Trek Into Darkness,228800.0
+1019,Dominic Cooper,563500.0,18.0,31300.0,Captain America,176700.0
+1020,Lena Headey,554300.0,22.0,25200.0,300,210600.0
+1021,Claire Danes,552800.0,23.0,24000.0,Terminator 3,150400.0
+1022,Ali Larter,552700.0,12.0,46100.0,Legally Blonde,96500.0
+1023,Marlon Brando,552500.0,12.0,46000.0,The Godfather,135000.0
+1024,Jennifer Coolidge,551300.0,14.0,39400.0,Legally Blonde,96500.0
+1025,Lance Henriksen,548400.0,24.0,22900.0,Scream 3,89100.0
+1026,Anne Bancroft,548000.0,28.0,19600.0,The Graduate,104900.0
+1027,Clive Owen,547000.0,26.0,21000.0,Inside Man,88500.0
+1028,Tony Cox,546900.0,10.0,54700.0,Oz The Great and Powerful,234900.0
+1029,Will Forte,546000.0,14.0,39000.0,The LEGO Movie,257800.0
+1030,Ben Foster,543500.0,23.0,23600.0,Lone Survivor,125100.0
+1031,Mike Vogel,537700.0,11.0,48900.0,The Help,169700.0
+1032,Teresa Palmer,536100.0,17.0,31500.0,Bedtime Stories,110100.0
+1033,Mia Wasikowska,534200.0,17.0,31400.0,Alice in Wonderland,334200.0
+1034,Cam Gigandet,534100.0,12.0,44500.0,Twilight,192800.0
+1035,Sydney Pollack,533300.0,10.0,53300.0,Tootsie,177200.0
+1036,Milla Jovovich,531000.0,25.0,21200.0,Fifth Element,63800.0
+1037,Kate Bosworth,529300.0,19.0,27900.0,Superman Returns,200100.0
+1038,Daniel Day-Lewis,523600.0,15.0,34900.0,Lincoln,182200.0
+1039,Eddie Redmayne,519000.0,9.0,57700.0,Fantastic Beasts and Where To Find Them,234000.0
+1040,"Freddie Prinze, Jr.",518700.00000000006,16.0,32400.0,Scooby-Doo,153300.0
+1041,Gemma Arterton,517400.0,13.0,39800.0,Quantum of Solace,168400.0
+1042,David Oyelowo,517000.0,14.0,36900.0,Rise of the Planet of the Apes,176800.0
+1043,Taron Egerton,516100.0,6.0,86000.0,Sing,270300.0
+1044,Armie Hammer,515500.0,10.0,51600.0,Cars 3,152900.0
+1045,Amy Ryan,511700.0,21.0,24400.0,Central Intelligence,127400.0
+1046,Brie Larson,509600.0,9.0,56600.0,Kong: Skull Island,168100.0
+1047,Rosie Huntington-Whiteley,506400.0,2.0,253200.0,Transformers 3,352400.0
+1048,Logan Lerman,505900.0,14.0,36100.0,Noah,101200.0
+1049,Michelle Yeoh,503300.0,10.0,50300.0,Kung Fu Panda 2,165200.0
+1300,Lindsay Lohan,492400.0,15.0,32800.0,Freaky Friday,110200.0
+1301,Rufus Sewell,489100.0,21.0,23300.0,Hercules,72700.0
+1302,Sanaa Lathan,488700.0,15.0,32600.0,Alien Vs. Predator,80300.0
+1303,Tracy Morgan,488200.0,13.0,37600.0,Rio 2,131500.0
+1304,Brenton Thwaites,487400.0,5.0,97500.0,Maleficent,241400.0
+1305,Zhang Ziyi,485900.0,10.0,48600.0,Rush Hour 2,226200.0
+1306,Rooney Mara,485800.0,19.0,25600.0,Girl with the Dragon Tattoo,102500.0
+1307,Ron Livingston,485600.0,27.0,18000.0,The Conjuring,137400.0
+1308,Blake Lively,485000.0,11.0,44100.0,Green Lantern,116600.0
+1309,Chris Klein,481600.0,14.0,34400.0,American Pie 2,145100.0
+1310,James Garner,481500.0,13.0,37000.0,Maverick,101600.0
+1311,Hailee Steinfeld,480400.0,12.0,40000.0,Pitch Perfect 2,184300.0
+1312,Jaden Smith,480000.0,4.0,120000.0,The Karate Kid,176600.0
+1313,Mary Elizabeth Winstead,479900.0,17.0,28200.0,Live Free or Die Hard,134500.0
+1314,Virginia Madsen,476000.0,31.0,15400.0,Sideways,71500.0
+1315,Hilary Swank,475900.0,18.0,26400.0,Million Dollar Baby,100500.0
+1316,Mindy Kaling,470900.0,3.0,157000.0,Inside Out,356500.0
+1317,Emma Roberts,467200.0,17.0,27500.0,We're the Millers,150400.0
+1318,Rebel Wilson,467100.0,7.0,66700.0,Pitch Perfect 2,184300.0
+1319,Clark Duke,466900.0,9.0,51900.0,The Croods,187200.0
+1320,Mandy Moore,465800.0,13.0,35800.0,Tangled,200800.0
+1321,Woody Allen,461300.0,27.0,17100.0,Antz,90800.0
+1322,Raven-Symone,460500.0,6.0,76800.0,Doctor Dolittle,144200.0
+1323,Jason Schwartzman,457200.0,23.0,19900.0,Saving Mr. Banks,83300.0
+1324,Lily Tomlin,451600.0,20.0,22600.0,9 to 5,103300.0
+1325,Kate Mara,450800.0,14.0,32200.000000000004,The Martian,228400.0
+1326,Ty Burrell,444900.0,10.0,44500.0,The Incredible Hulk,134800.0
+1327,Nick Frost,443700.0,12.0,37000.0,Snow White and the Huntsman,155300.0
+1328,Lukas Haas,443200.0,22.0,20100.0,The Revenant,183600.0
+1329,Kodi Smit-McPhee,440700.0,8.0,55100.0,Dawn of the Planet of the Apes,208500.0
+1330,Theo James,440000.0,5.0,88000.0,Divergent,150900.0
+1331,Dev Patel,439800.0,8.0,55000.0,Slumdog Millionaire,141300.0
+1332,Amanda Bynes,435600.0,7.0,62200.0,Robots,128199.99999999999
+1333,Breckin Meyer,433600.0,12.0,36100.0,Garfield,75400.0
+1334,Neve Campbell,432800.0,12.0,36100.0,Scream,103000.0
+1335,Christopher Reeve,427600.0,15.0,28500.0,Superman,134200.0
+1336,Sofia Boutella,418800.0,4.0,104700.0,Star Trek Beyond,158800.0
+1337,Tom Arnold,415900.0,18.0,23100.0,True Lies,146300.0
+1338,John Krasinski,415300.0,18.0,23100.0,It's Complicated,112700.0
+1339,Kal Penn,415200.0,13.0,31900.0,Superman Returns,200100.0
+1340,Ryan Phillippe,414700.0,17.0,24400.0,I Know What You Did Last Summer,72600.0
+1341,Tony Jaa,414600.0,8.0,51800.0,Furious 7,353000.0
+1342,Lily Collins,413100.0,9.0,45900.0,The Blind Side,256000.0
+1343,Jessica Lange,410900.0,13.0,31600.0,Tootsie,177200.0
+1344,Brandon T. Jackson,407900.0,8.0,51000.0,Tropic Thunder,110500.0
+1345,Freida Pinto,406200.0,8.0,50800.0,Rise of the Planet of the Apes,176800.0
+1346,Freddie Highmore,404700.0,9.0,45000.0,Charlie and the Chocolate Factory,206500.0
+1347,Hilary Duff,402300.0,10.0,40200.0,Cheaper by the Dozen,138600.0
+1348,Cara Delevigne,400000.0,4.0,100000.0,Suicide Squad,325100.0
+1349,Jesse Plemons,398500.0,13.0,30700.0,Bridge of Spies,72300.0
+1350,Omar Epps,395500.0,16.0,24700.0,Scream 2,101400.0
+1351,Selena Gomez,392100.0,7.0,56000.0,Hotel Transylvania 2,169700.0
+1352,Olga Kurylenko,391700.0,12.0,32600.0,Quantum of Solace,168400.0
+1353,Juno Temple,387100.0,16.0,24200.0,Maleficent,241400.0
+1354,January Jones,378100.0,9.0,42000.0,X-Men: First Class,146400.0
+1355,Shawn Wayans,377900.0,5.0,75600.0,Scary Movie,157000.0
+1356,Alicia Silverstone,375200.0,17.0,22100.0,Batman and Robin,107300.0
+1357,Eugenio Derbez,373700.0,10.0,37400.0,Beverly Hills Chihuahua,94500.0
+1358,Cher,373100.0,11.0,33900.0,Moonstruck,80600.0
+1359,Ezra Miller,371200.0,10.0,37100.0,Fantastic Beasts and Where To Find Them,234000.0
+1360,Edward Burns,370300.0,13.0,28500.0,Saving Private Ryan,216500.0
+1361,Alexa Vega,369500.0,9.0,41100.0,Spy Kids,112700.0
+1362,Denise Richards,365600.0,12.0,30500.0,World Is Not Enough,126900.0
+1363,Lake Bell,365400.0,10.0,36500.0,It's Complicated,112700.0
+1364,Adam Brody,360300.0,17.0,21200.0,Mr. & Mrs. Smith,186300.0
+1365,Franka Potente,360000.0,9.0,40000.0,The Bourne Supremacy,176200.0
+1366,Adam DeVine,359400.0,4.0,89800.0,Pitch Perfect 2,184300.0
+1367,Noomi Rapace,359200.0,9.0,39900.0,Sherlock Holmes 2,186800.0
+1368,Gena Rowlands,358200.0,21.0,17100.0,The Notebook,81000.0
+1369,Rashida Jones,357900.0,11.0,32500.0,The Social Network,97000.0
+1370,Mark Rylance,357600.0,6.0,59600.0,Dunkirk,187900.0
+1371,Gene Wilder,357000.0,10.0,35700.0,Blazing Saddles,119600.0
+1372,Madonna,349300.0,14.0,24900.0,League of Their Own,107500.0
+1373,Olivia Thirlby,348900.0,16.0,21800.0,Juno,143500.0
+1374,Jon Heder,348200.0,10.0,34800.0,Blades of Glory,118600.0
+1375,Dane DeHaan,344600.0,10.0,34500.0,The Amazing Spider-Man 2,202900.0
+1376,Sally Hawkins,342800.0,16.0,21400.0,Godzilla,200700.0
+1377,Hayden Panettiere,338400.0,12.0,28200.0,Remember the Titans,115700.0
+1378,Katherine Waterston,336200.0,4.0,84000.0,Fantastic Beasts and Where To Find Them,234000.0
+1379,Jonathan Rhys Meyers,335900.0,17.0,19800.0,Mission: Impossible III,134000.0
+1380,Jennifer Love Hewitt,333600.0,12.0,27800.0,Garfield,75400.0
+1381,Linda Hamilton,332300.0,6.0,55400.0,Terminator 2,205900.0
+1382,Emmy Rossum,331200.0,12.0,27600.0,The Day After Tomorrow,186700.0
+1383,Jorma Taccone,330800.0,4.0,82700.0,The LEGO Movie,257800.0
+1384,Miley Cyrus,321900.0,4.0,80500.0,Bolt,114100.0
+1385,Carey Mulligan,320000.0,11.0,29100.0,The Great Gatsby,144800.0
+1386,Nia Vardalos,317900.0,5.0,63600.0,My Big Fat Greek Wedding,241400.0
+1387,Bella Thorne,315300.0,8.0,39400.0,Alvin and the Chipmunks: The Road Chip,85900.0
+1388,Jamie Harris,314400.0,7.0,44900.0,Rise of the Planet of the Apes,176800.0
+1389,Warren Beatty,312200.0,9.0,34700.0,Dick Tracy,103700.0
+1390,Alicia Vikander,309700.0,12.0,25800.0,Jason Bourne,162400.0
+1391,Christine Taylor,307900.0,7.0,44000.0,DodgeBall,114300.0
+1392,Thomas Mann,307400.0,6.0,51200.0,Kong: Skull Island,168100.0
+1393,Matthew Goode,305900.0,13.0,23500.0,Watchmen,107500.0
+1394,Kristofer Hivju,304600.0,5.0,60900.0,Fate of the Furious,225800.0
+1395,Michael Nyqvist,303600.0,9.0,33700.0,Mission: Impossible 4,209400.0
+1396,Mathieu Amalric,300700.0,13.0,23100.0,Quantum of Solace,168400.0
+1397,Sharon Leal,297300.0,7.0,42500.0,Dreamgirls,103400.0
+1398,Amber Heard,290400.0,15.0,19400.0,Pineapple Express,87300.0
+1399,Rory Culkin,289900.0,12.0,24200.0,Signs,228000.0
+1700,Jeffrey Dean Morgan,289600.0,14.0,20700.0,Watchmen,107500.0
+1701,Ben Barnes,287700.0,5.0,57500.0,The Chronicles of Narnia: Prince Caspian,141600.0
+1702,Vanessa Hudgens,287500.0,9.0,31900.0,Journey 2,103900.0
+1703,Rutger Hauer,286700.0,27.0,10600.0,Sin City,74100.0
+1704,Boris Kodjoe,286400.0,8.0,35800.0,Madea's Family Reunion,63300.0
+1705,David Duchovny,285600.0,19.0,15000.0,X-Files,83900.0
+1706,Abbie Cornish,284900.0,12.0,23700.0,Limitless,79200.0
+1707,Boyd Holbrook,284300.0,5.0,56900.0,Logan,226300.0
+1708,Rihanna,283300.0,3.0,94400.0,Home,177400.0
+1709,Zach Braff,281700.0,6.0,47000.0,Oz The Great and Powerful,234900.0
+1710,Snoop Dogg,281400.0,8.0,35200.0,Starsky and Hutch,88200.0
+1711,Chuck Norris,279700.0,17.0,16500.0,The Expendables 2,85000.0
+1712,Alexa Davalos,278700.0,5.0,55700.0,Clash of the Titans,163200.0
+1713,Sophie Cookson,274700.0,3.0,91600.0,Kingsman,128300.00000000001
+1714,AnnaSophia Robb,272700.0,8.0,34100.0,Bridge to Terabithia,82300.0
+1715,Michael B. Jordan,272600.0,5.0,54500.0,Creed,109800.0
+1716,Saoirse Ronan,270300.0,13.0,20800.0,The Grand Budapest Hotel,59300.0
+1717,Chris Brown,269400.0,6.0,44900.0,Think Like a Man,91500.0
+1718,Jack O'Connell,269100.0,9.0,29900.0,Unbroken,115600.0
+1719,Leighton Meester,264000.0,10.0,26400.0,Date Night,98700.0
+1720,Trey Parker,263600.0,1.0,263600.0,Despicable Me 3,263600.0
+1721,Mireille Enos,263300.0,3.0,87800.0,World War Z,202400.0
+1722,Whitney Houston,261600.00000000003,4.0,65400.00000000001,Bodyguard,122000.0
+1723,50 Cent,259700.0,7.0,37100.0,Spy,110800.0
+1724,Alex Pettyfer,259399.99999999997,7.0,37100.0,Magic Mike,113700.0
+1725,Kaley Cuoco,258399.99999999997,4.0,64599.99999999999,Hop,108100.0
+1726,Michelle Trachtenberg,254200.0,8.0,31800.0,Inspector Gadget,97400.0
+1727,Quvenzhane Wallis,253100.0,4.0,63300.0,Trolls,153700.0
+1728,Melanie Laurent,245800.0,6.0,41000.0,Inglourious Basterds,120500.0
+1729,Dana Carvey,241600.0,7.0,34500.0,Wayne's World,121700.0
+1730,Mo'Nique,240600.0,13.0,18500.0,Precious,47600.0
+1731,Bow Wow,240600.0,7.0,34400.0,Fast and the Furious 3,62500.0
+1732,Zoe Kazan,240100.0,16.0,15000.0,It's Complicated,112700.0
+1733,Emily Browning,238900.0,10.0,23900.0,Lemony Snicket,118600.0
+1734,Julianne Hough,236700.0,5.0,47300.0,Safe Haven,71300.0
+1735,Max Thieriot,233500.0,9.0,25900.0,The Pacifier,113100.0
+1736,Frankie Muniz,233000.0,7.0,33300.0,Racing Stripes,49800.0
+1737,Jim Sturgess,232800.0,12.0,19400.0,21,81200.0
+1738,John Cena,230300.0,6.0,38400.0,Trainwreck,110200.0
+1739,Peter Berg,229800.0,5.0,46000.0,Collateral,101000.0
+1740,Jessica Lucas,229300.0,5.0,45900.0,Cloverfield,80000.0
+1741,Chris Messina,221200.0,18.0,12300.0,Julie & Julia,94100.0
+1742,Damon Wayans,217400.0,11.0,19800.0,The Last Boy Scout,59500.0
+1743,Tessa Thompson,213100.0,4.0,53300.0,Creed,109800.0
+1744,Adrianne Palicki,210400.0,4.0,52600.0,G.I. Joe: Retaliation,122500.0
+1745,Brooklyn Decker,209900.0,5.0,42000.0,Just Go With It,103000.0
+1746,Thomas Jane,208500.0,17.0,12300.0,Deep Blue Sea,73600.0
+1747,Kevin Smith,207700.0,6.0,34600.0,Live Free or Die Hard,134500.0
+1748,Erika Christensen,203500.0,11.0,18500.0,Flightplan,89700.0
+1749,Brandon Routh,203100.0,3.0,67700.0,Superman Returns,200100.0
+1750,Matthew Perry,200900.0,7.0,28700.0,17 Again,64200.0
+1751,Tye Sheridan,195100.0,8.0,24400.0,X-Men: Apocalypse,155400.0
+1752,Ne-Yo,194800.0,3.0,64900.00000000001,Battle: Los Angeles,83600.0
+1753,Katharine Hepburn,194200.0,4.0,48600.0,On Golden Pond,119300.0
+1754,Alexander Skarsgård,191400.0,8.0,23900.0,The Legend of Tarzan,126600.0
+1755,Jenna Fischer,189900.0,9.0,21100.0,Blades of Glory,118600.0
+1756,James Purefoy,187900.0,6.0,31300.0,John Carter,73100.0
+1757,Martin Donovan,186200.0,21.0,8900.0,Insomnia,67400.0
+1758,Christopher Guest,182800.0,2.0,91400.0,Night at the Museum II,177200.0
+1759,Alex Russell,180200.0,4.0,45100.0,Unbroken,115600.0
+1760,Aubrey Plaza,178500.0,13.0,13700.0,Funny People,51900.0
+1761,Amanda Crew,177800.0,7.0,25400.0,The Haunting in Connecticut,55400.0
+1762,Luke Bracey,171000.0,5.0,34200.0,Hacksaw Ridge,67200.0
+1763,Anna Friel,169400.0,11.0,15400.0,Limitless,79200.0
+1764,Aziz Ansari,168600.0,3.0,56200.0,Epic,107500.0
+1765,Jordan Peele,167200.0,3.0,55700.0,Captain Underpants,73900.0
+1766,Zachary Gordon,165700.0,3.0,55200.0,Diary of a Wimpy Kid,64000.0
+1767,Rosemarie DeWitt,164500.0,14.0,11700.0,The Odd Life of Timothy Green,51900.0
+1768,Philip Kaufman,163200.0,8.0,20400.0,Rising Sun,63200.0
+1769,Suraj Sharma,161400.0,2.0,80700.0,Life of Pi,125000.0
+1770,Greta Gerwig,156200.0,17.0,9200.0,No Strings Attached,70700.0
+1771,Peter Krause,155600.0,4.0,38900.0,Truman Show,125600.0
+1772,Cody Horn,154900.0,4.0,38700.0,Magic Mike,113700.0
+1773,Analeigh Tipton,151800.0,4.0,37900.0,"Crazy, Stupid, Love.",84400.0
+1774,Katie Cassidy,150400.0,4.0,37600.0,Nightmare on Elm Street,63100.0
+1775,Gillian Anderson,146800.0,14.0,10500.0,X-Files,83900.0
+1776,Corey Haim,141100.0,10.0,14100.0,The Lost Boys,32200.000000000004
+1777,Jeremy Sumpter,139900.0,4.0,35000.0,Peter Pan,48500.0
+1778,Ron Howard,139100.0,4.0,34800.0,American Graffiti,115000.0
+1779,Nicki Minaj,137900.0,2.0,69000.0,The Other Woman,83900.0
+1780,Imogen Poots,136500.0,16.0,8500.0,Need for Speed,43600.0
+1781,Penn Badgley,134600.0,6.0,22400.0,Easy A,58400.0
+1782,Romola Garai,134400.0,11.0,12200.0,Atonement,50900.0
+1783,Elisabeth Moss,133200.0,17.0,7800.0,Get Him to the Greek,61000.0
+1784,Gabourey Sidibe,132500.0,4.0,33100.0,Tower Heist,78000.0
+1785,Noah Ringer,131800.0,1.0,131800.0,The Last Airbender,131800.0
+1786,Dianna Agron,131600.0,5.0,26300.0,I Am Number Four,55100.0
+1787,Chris Farley,129699.99999999999,6.0,21600.0,Tommy Boy,32700.000000000004
+1788,Kate Upton,128199.99999999999,2.0,64099.99999999999,The Other Woman,83900.0
+1789,Sean 'P. Diddy' Combs,126400.0,4.0,31600.0,Get Him to the Greek,61000.0
+1790,Lance Reddick,120600.0,6.0,20100.0,Don't Say a Word,55000.0
+1791,Nikki Blonsky,118900.0,3.0,39600.0,Hairspray (2007),118900.0
+1792,Rob Reiner,116900.0,1.0,116900.0,The Wolf of Wall Street,116900.0
+1793,Eminem,116800.0,1.0,116800.0,8 Mile,116800.0
+1794,Sarah Polley,116200.0,19.0,6100.0,Dawn of the Dead,59000.0
+1795,Mark Duplass,114900.0,5.0,23000.0,Tammy,84500.0
+1796,Thomas Dekker,112400.0,5.0,22500.0,Nightmare on Elm Street,63100.0
+1797,Max Records,107700.0,2.0,53800.0,Where the Wild Things Are,77200.0
+1798,Gael Garcia Bernal,107100.0,22.0,4900.0,Babel,34300.0
+1799,Chloe Sevigny,107000.0,21.0,5100.0,Zodiac,33100.0
+2150,Jay Chou,105300.0,2.0,52700.0,The Green Hornet,98800.0
+2151,Dustin Ingram,104100.0,2.0,52000.0,Paranormal Activity 3,104000.0
+2152,Sophie Okonedo,103500.0,7.0,14800.0,The Secret Life of Bees,37800.0
+2153,Shiloh Fernandez,102500.0,7.0,14600.0,Evil Dead (2013),54200.0
+2154,Alyson Michalka,100900.0,3.0,33600.0,Easy A,58400.0
+2155,Jenna Dewan-Tatum,100500.0,4.0,25100.0,Step Up,65300.0
+2156,Katee Sackhoff,100100.0,3.0,33400.0,Riddick,42000.0
+2157,Max Irons,98200.0,5.0,19600.0,Red Riding Hood,37700.0
+2158,Rachel Bilson,95300.0,5.0,19100.0,Jumper,80200.0
+2159,Keith Gordon,91300.0,1.0,91300.0,Back to School,91300.0
+2160,Roberto Benigni,88900.0,11.0,8100.0,Life Is Beautiful,57600.0
+2161,Portia Doubleday,88600.0,4.0,22200.0,"Big Mommas: Like Father, Like Son",37900.0
+2162,Prince,87900.0,4.0,22000.0,Purple Rain,70300.0
+2163,Goran Visnjic,86100.0,7.0,12300.0,Practical Magic,46700.0
+2164,Ryan Guzman,85400.0,3.0,28500.0,The Boy Next Door,35400.0
+2165,Gina Rodriguez,84700.0,4.0,21200.0,Deepwater Horizon,61400.0
+2166,Tupac Shakur,83100.0,6.0,13800.0,Poetic Justice,27500.0
+2167,Julie Delpy,80500.0,16.0,5000.0,American Werewolf in Paris,26600.0
+2168,Werner Herzog,80400.0,4.0,20100.0,Jack Reacher,80100.0
+2169,Justin Bieber,79200.0,2.0,39600.0,Justin Bieber,73000.0
+2170,Chace Crawford,78300.0,5.0,15700.0,What to Expect When You're Expecting,41200.0
+2171,Alex Kendrick,78200.0,3.0,26100.0,Courageous,34500.0
+2172,Jason O'Mara,77300.0,3.0,25800.0,Resident Evil: Extinction,50600.0
+2173,Quinton 'Rampage' Jackson,77300.0,3.0,25800.0,The A-Team,77200.0
+2174,Wilmer Valderrama,76800.0,8.0,9600.0,Larry Crowne,35600.0
+2175,Dean Norris,76700.0,7.0,11000.0,Fist Fight,32200.000000000004
+2176,Matt LeBlanc,73600.0,3.0,24500.0,Lost in Space,69100.0
+2177,Sarah Paulson,72800.0,6.0,12100.0,12 Years a Slave,56700.0
+2178,Keenen Ivory Wayans,69200.0,4.0,17300.0,A Low Down Dirty Shame,29400.0
+2179,Cecile de France,67400.0,10.0,6700.0,Hereafter,32700.000000000004
+2180,Garry Marshall,67200.0,1.0,67200.0,Race to Witch Mountain,67200.0
+2181,Grant Heslov,67100.0,1.0,67100.0,Dante's Peak,67100.0
+2182,Katherine McPhee,67100.0,2.0,33600.0,The House Bunny,48200.0
+2183,Sofia Coppola,66700.0,1.0,66700.0,The Godfather Part III,66700.0
+2184,Taylor Schilling,66200.0,3.0,22100.0,The Lucky One,60500.0
+2185,Kenny Wormald,64400.00000000001,4.0,16100.000000000002,Footloose,51800.0
+2186,Emilie de Ravin,64000.0,4.0,16000.0,The Hills Have Eyes,41800.0
+2187,Mary-Kate Olsen,63500.0,4.0,15900.0,Beastly,27900.0
+2188,Carlos Mencia,57000.0,2.0,28500.0,The Heartbreak Kid,36800.0
+2189,Callan McAuliffe,56900.0,3.0,19000.0,I Am Number Four,55100.0
+2190,Elisabeth Rohm,56500.0,1.0,56500.0,Joy,56500.0
+2191,Ashley Bell,56200.0,2.0,28100.0,The Last Exorcism,41000.0
+2192,Melissa Benoist,50500.0,2.0,25300.0,The Longest Ride,37400.0
+2193,Matthias Schoenaerts,49400.0,11.0,4500.0,Far from the Madding Crowd,12200.0
+2194,Matisyahu,49100.0,1.0,49100.0,The Possession,49100.0
+2195,Naturi Naughton,47200.0,2.0,23600.0,Lottery Ticket,24700.0
+2196,Rhys Wakefield,46700.0,3.0,15600.0,Endless Love,23400.0
+2197,Carrie Underwood,43900.0,1.0,43900.0,Soul Surfer,43900.0
+2198,Scott Mescudi,43700.0,3.0,14600.0,Need for Speed,43600.0
+2199,M. Night Shyamalan,42300.0,1.0,42300.0,Lady in the Water,42300.0
+2200,Colin Egglesfield,39100.0,2.0,19600.0,Something Borrowed,39000.0
+2201,Minka Kelly,38400.0,2.0,19200.0,The Roommate,37300.0
+2202,Seu Jorge,36100.0,7.0,5200.0,The Life Aquatic,24000.0
+2203,Claire Foy,33000.0,3.0,11000.0,Season of the Witch,24800.0
+2204,Thomas Horn,31800.0,1.0,31800.0,Extremely Loud & Incredibly Close,31800.0
+2205,Ellen Wong,31500.0,1.0,31500.0,Scott Pilgrim vs. the World,31500.0
+2206,Jason Momoa,31000.0,4.0,7700.0,Conan the Barbarian,21300.0
+2207,Quentin Tarantino,28700.0,2.0,14300.0,From Dusk Till Dawn,25800.0
+2208,Tom Sturridge,23700.0,7.0,3400.0,Far from the Madding Crowd,12200.0
+2209,Leigh Whannell,22500.0,2.0,11200.0,The Bye Bye Man,22400.0
+2210,Crystal Reed,21500.0,2.0,10700.0,Skyline,21400.0
+2211,Mike Binder,19100.0,2.0,9500.0,The Upside of Anger,18800.0
+2212,Jessica Brown Findlay,18400.0,2.0,9200.0,Winter's Tale,12600.0
+2213,Demetri Martin,17600.0,4.0,4400.0,Taking Woodstock,7500.0
+2214,Brit Marling,17200.0,7.0,2500.0,Arbitrage,7900.0
+2215,Kang-ho Song,14100.0,8.0,1800.0,The Interview (2014),6100.0
+2216,Harold Ramis,11600.0,1.0,11600.0,The Last Kiss (2006),11600.0
+2217,Aimee Teegarden,10200.0,3.0,3400.0,Prom,10100.0
+2218,Akiva Schaffer,9600.0,1.0,9600.0,Popstar,9600.0
+2219,John Cameron Mitchell,9300.0,3.0,3100.0,Band of the Hand,4900.0
+2220,Josh Zuckerman,8400.0,2.0,4200.0,Sex Drive,8400.0
+2221,John Wayne,8200.0,2.0,4100.0,The Shootist,8100.0
+2222,Jay Duplass,8100.0,2.0,4000.0,Beatriz At Dinner,7100.0
+2223,Tracy Letts,7400.0,5.0,1500.0,Indignation,3400.0
+2224,Macon Blair,5800.0,3.0,1900.0,Green Room,3200.0
+2225,Vincent Gallo,5100.0,8.0,635,Buffalo '66,2400.0
+2226,Miranda July,4500.0,2.0,2200.0,Me and You and Everyone We Know,3900.0
+2227,Emily Ratajkowski,3600.0,1.0,3600.0,We Are Your Friends,3600.0
+2228,Bel Powley,1800.0,5.0,352,The Diary of a Teenage Girl,1500.0
+2229,Jim Jarmusch,1300.0,1.0,1300.0,Blue in the Face,1300.0
+2230,Prabhu Dheva,892,1.0,892,ABCD (Any Body Can Dance) 2,892
+2231,David Lynch,765,1.0,765,Lucky (2017),765
+2232,Josh Radnor,718,3.0,239,Liberal Arts,327
+2233,Morgan Spurlock,638,1.0,638,POM Wonderful Presents: The Greatest Movie Ever Sold,638
+2234,Mike Nichols,215,1.0,215,The Designated Mourner,215
+2235,Brian De Palma,165,1.0,165,De Palma,165
+2236,Michael Moore,149,1.0,149,Michael Moore In TrumpLand,149
+2237,David Wain,101,2.0,50.3,Delirious (2007),86.5
+2238,Sebastián Silva,79.8,1.0,79.8,Nasty Baby,79.8
+2239,Eli Roth,58.5,1.0,58.5,Aftershock,58.5
+2240,Jay Chandrasekhar,41.6,1.0,41.6,The Slammin' Salmon,41.6
+2241,Alex Ross Perry,28.2,1.0,28.2,7 Chinese Brothers,28.2
+2242,Nick Jonas,23.0,1.0,23.0,Goat,23.0
+2243,Joseph Schneider,15.0,1.0,15.0,I'm Not Jesus Mommy,15.0
+2244,Rory Kinnear,5.7,1.0,5.7,Trespass Against Us,5.7
