@@ -190,8 +190,8 @@ def box_office_weekly():
     ###########################################################################
     '''
     util=BOX_UTIL('http://www.boxofficemojo.com/weekly/chart/',None,None)
-    years=range(2015,2017)
-    weeks=range(1,5)
+    years=range(2007,2018)
+    weeks=range(1,53)
     final_url=util.oriurl('yr','wk',years,weeks)
     for i in final_url:
         ii=list(i)
@@ -235,6 +235,31 @@ def gross_by_actor():
             store[head[i]]=util.gather(info,i,7,len(info))
         filename='Actor_gross/'+str(filenum*50+1)+'-'+str((filenum+1)*50+1)+'.csv'
         util.mkdir('Actor_gross')
+        util.writeCSV(filename,store)
+        filenum=filenum+1
+
+def gross_by_director():
+    '''
+    ###########################################################################
+    This is the scraping of the box office based on the directors, firstly, select
+    the pagenum of the directors, the directors are ranked based on the box office
+    ###########################################################################
+    '''
+    view=['Actor']
+    pagenum=range(1,18)
+    util=BOX_UTIL('http://www.boxofficemojo.com/people/',None,{'view':'Director','sort':'sumgross','order':'DESC'})
+    final_url=util.oriurl('view','pagenum',view,pagenum)
+    filenum=0
+    for i in final_url:
+        info=util.generate_info(i,'#851-885','Sort:')
+        info=info[1:]
+        info=info[9:]
+        head=['ROW','Person','Total Gross(Million)','Movie involved','Average Gross for each movie','Most profitbale movie','Gross of most profitable']
+        store=dict()
+        for i in range(0,7):
+            store[head[i]]=util.gather(info,i,7,len(info))
+        filename='Director_gross/'+str(filenum*50+1)+'-'+str((filenum+1)*50+1)+'.csv'
+        util.mkdir('Director_gross')
         util.writeCSV(filename,store)
         filenum=filenum+1
 
@@ -353,6 +378,7 @@ def write_dic_csv(filename,headers,dic):
 Run the function you want
 ###########################################################################
 '''
-thread_extracting()
-box_office_weekly()
-gross_by_actor()
+#thread_extracting()
+#box_office_weekly()
+gross_by_director()
+#gross_by_actor()
