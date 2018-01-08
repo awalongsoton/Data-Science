@@ -245,9 +245,9 @@ def gross_by_director():
     the pagenum of the directors, the directors are ranked based on the box office
     ###########################################################################
     '''
-    view=['Actor']
+    view=['Director']
     pagenum=range(1,18)
-    util=BOX_UTIL('http://www.boxofficemojo.com/people/',None,{'view':'Director','sort':'sumgross','order':'DESC'})
+    util=BOX_UTIL('http://www.boxofficemojo.com/people/',None,{'sort':'sumgross','order':'DESC'})
     final_url=util.oriurl('view','pagenum',view,pagenum)
     filenum=0
     for i in final_url:
