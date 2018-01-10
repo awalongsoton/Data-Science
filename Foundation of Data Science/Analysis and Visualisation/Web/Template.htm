@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- RRRReference https://www.w3schools.com/w3css/tryw3css_templates_cafe.htm -->
 <html><head><style type="text/css">.gm-err-container{height:100%;width:100%;display:table;background-color:#e0e0e0;position:relative;left:0;top:0}.gm-err-content{border-radius:1px;padding-top:0;padding-left:10%;padding-right:10%;position:static;vertical-align:middle;display:table-cell}.gm-err-content a{color:#4285f4}.gm-err-icon{text-align:center}.gm-err-title{margin:5px;margin-bottom:20px;color:#616161;font-family:Roboto,Arial,sans-serif;text-align:center;font-size:24px}.gm-err-message{margin:5px;color:#757575;font-family:Roboto,Arial,sans-serif;text-align:center;font-size:12px}.gm-err-autocomplete{padding-left:20px;background-repeat:no-repeat;background-size:15px 15px}
 </style><style type="text/css">.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}
 </style><link type="text/css" rel="stylesheet" href="Template_files/css.css"><style type="text/css">.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px}
@@ -7,7 +8,7 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"><style type="text/css">.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}
 </style><link type="text/css" rel="stylesheet" href="Template_files/css_002.css"><style type="text/css">.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px}
 </style><style type="text/css">@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}</style><style type="text/css">.gm-style-pbc{transition:opacity ease-in-out;background-color:rgba(0,0,0,0.45);text-align:center}.gm-style-pbt{font-size:22px;color:white;font-family:Roboto,Arial,sans-serif;position:relative;margin:0;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}
-</style><title>W3.CSS Template</title>
+</style><title>Working on Box office</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="Template_files/w3.css">
@@ -69,10 +70,51 @@ body, html {
 <!-- Add a background color and large text to the whole page -->
 <div class="w3-sand w3-grayscale w3-large">
 
-<!-- About Container -->
+<!-- About Container -- RRRRRRReference：https://zhidao.baidu.com/question/401729592.html-->
 <div class="w3-container" id="about">
-  <div class="w3-content" style="max-width:700px">
-    <h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">ABOUT THE CAFE</span></h5>
+  <div class="w3-content" style="max-width:900px">
+	<h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">ABOUT THE EXAMPLE</span></h5>
+	<div id="gpic" style="overflow:hidden; weight:992px height:360px;">
+	<table border="0" align="center" cellpadding="0" cellspacing="0" layout:fixed>
+  	<tr>
+    	<td id="gpic1" valign="top" align="center">
+			<table width="1600" border="0" align="left" cellpadding="0" cellspacing="0" layout:fixed>
+        		<tr>
+          			<td height="400" background="Template_files/ballad_of_lefty_brown_270x400.jpg"> </td>
+          			<td valign="top" background="Template_files/coco_270x400.jpg"> </td>
+          			<td valign="top" background="Template_files/explosion_270x400.jpg"> </td>
+          			<td valign="top" background="Template_files/IT-poster_270x400.jpg"> </td>
+          			<td valign="top" background="Template_files/star_war_270x400.jpg"> </td>
+          			<td valign="top" background="Template_files/Quest_270x400.jpg"> </td>
+        		</tr>
+        		<tr>
+          			<td align="center" width="1600"><p>Ballad of lefty brown</p></td>
+          			<td align="center" width="1600"><p>Coco</p></td>
+          			<td align="center" width="1600"><p>Explosion</p></td>
+          			<td align="center" width="1600"><p>IT</p></td>
+          			<td align="center" width="1600"><p>Star wars</p></td>
+          			<td align="center" width="1600"><p>Quest (2017)</p></td>
+        		</tr>
+      		</table>
+		</td>
+    	<td id="gpic2" valign="top"></td>
+  	</tr>
+	</table>
+	</div>
+	<script>
+		var speed=30
+		gpic2.innerHTML=gpic1.innerHTML
+		function Marquee(){
+			if(gpic2.offsetWidth-gpic.scrollLeft<=0)
+				gpic.scrollLeft-=gpic1.offsetWidth
+			else{
+				gpic.scrollLeft++
+			}
+		}
+		var MyMar=setInterval(Marquee,speed)
+		gpic.onmouseover=function() {clearInterval(MyMar)}
+		gpic.onmouseout=function() {MyMar=setInterval(Marquee,speed)}
+	</script>
     <p>The Cafe was founded in blabla by Mr. Smith in lorem ipsum dolor 
 sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
 ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
@@ -210,6 +252,4 @@ document.getElementById("myLink").click();
 To use this code on your website, get a free API key from Google.
 Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
 -->
-
-
 </body></html>
