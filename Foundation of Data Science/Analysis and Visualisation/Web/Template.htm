@@ -11,6 +11,9 @@
 </style><title>Working on Box office</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="Template_files/style.css">
+<link rel="stylesheet" href="Template_files/font-awesome.min.css">
+<link rel="stylesheet prefetch" href="Template_files/bootstrap.min.css">
 <link rel="stylesheet" href="Template_files/w3.css">
 <link rel="stylesheet" href="Template_files/css_003.css">
 <style>
@@ -21,7 +24,7 @@ body, html {
 .bgimg {
     background-position: center;
     background-size: cover;
-    background-image: url("/Users/yanzelong/Desktop/UoS/Fundations of Data Science/Groupworks/web/Template_files/Screen Shot 2018-01-06 at 21.52.33.png");
+    background-image: url("Template_files/Screen Shot 2018-01-06 at 21.52.33.png");
     min-height: 75%;
 }
 .menu {
@@ -42,16 +45,18 @@ body, html {
 <div class="w3-top">
   <div class="w3-row w3-padding w3-black">
     <div class="w3-col s3">
-      <a href="#" class="w3-button w3-block w3-black">HOME</a>
+    </div>
+	<div class="w3-col s3">
+      <a href="#where_we_finding" class="w3-button w3-block w3-black">WHERE SEARCHING</a>
     </div>
     <div class="w3-col s3">
-      <a href="#about" class="w3-button w3-block w3-black">WHAT WE FOUND</a>
+      <a href="#menu" class="w3-button w3-block w3-black">WHAT WE FOUND</a>
     </div>
     <div class="w3-col s3">
-      <a href="#menu" class="w3-button w3-block w3-black">ABOUT EXAMPLES</a>
+      <a href="#about" class="w3-button w3-block w3-black">ABOUT EXAMPLES</a>
     </div>
     <div class="w3-col s3">
-      <a href="#where" class="w3-button w3-block w3-black">WHERE</a>
+      <a href="#where" class="w3-button w3-block w3-black">ANAYLSING</a>
     </div>
   </div>
 </div>
@@ -70,6 +75,18 @@ body, html {
 <!-- Add a background color and large text to the whole page -->
 <div class="w3-sand w3-grayscale w3-large">
 
+<!-- Where we are finding the data -->
+<div class="w3-container" id="where_we_finding">
+  <div class="w3-content" style="max-width:930px">
+ 
+    <h5 class="w3-center w3-padding-48"><span class="w3-tag w3-wide">WHERE SEARCHING</span></h5>
+	<a href="http://www.imdb.com/">Internet Movie Database(IMDB);</a>
+	<a href="http://www.boxofficemojo.com/">Box Office Mojo;</a>
+	<a href="https://trends.google.com/trends/">Google Trends;</a>
+	<a href="http://www.omdbapi.com/">The Open Movie Database;</a>
+	<a href="https://www.rottentomatoes.com/">Rotten Tomatoes</a>
+  </div>
+</div>
 
 <!-- What we found Container -->
 <div class="w3-container" id="menu">
@@ -191,29 +208,74 @@ body, html {
 	
 <!-- About example -- RRRRRRReference：https://zhidao.baidu.com/question/401729592.html-->
 <div class="w3-container" id="about">
-  <div class="w3-content" style="max-width:900px">
+  <div class="w3-content" style="max-width:950px">
 	<h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">ABOUT EXAMPLES</span></h5>
 	<div id="gpic" style="overflow:hidden; weight:992px height:360px;">
-	<table border="0" align="center" cellpadding="0" cellspacing="0" layout:fixed>
+	<table border="0" align="center" cellpadding="0" cellspacing="0">
   	<tr>
     	<td id="gpic1" valign="top" align="center">
-			<table width="1600" border="0" align="left" cellpadding="0" cellspacing="0" layout:fixed>
+			<table width="2150" border="0" align="left" cellpadding="0" cellspacing="0" layout:fixed>
         		<tr>
-          			<td height="400" background="Template_files/ballad_of_lefty_brown_270x400.jpg"> </td>
-					<rd valign="top" width="20" bgcolor="#FFFFFF"> </rd>
-          			<td valign="top" background="Template_files/coco_270x400.jpg"> </td>
-          			<td valign="top" background="Template_files/explosion_270x400.jpg"> </td>
-          			<td valign="top" background="Template_files/IT-poster_270x400.jpg"> </td>
-          			<td valign="top" background="Template_files/star_war_270x400.jpg"> </td>
-          			<td valign="top" background="Template_files/Quest_270x400.jpg"> </td>
+          			<td height="400" background="Template_files/example/alabama_moon.jpg"> </td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+          			<td valign="top" background="Template_files/example/before_rains.jpg"> </td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+          			<td valign="top" background="Template_files/example/bratz.jpg"> </td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+          			<td valign="top" background="Template_files/example/chance_pe_dance.jpg"> </td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+          			<td valign="top" background="Template_files/example/hostel_part2.jpg"> </td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+          			<td valign="top" background="Template_files/example/human_resources_manager.jpg"> </td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+					<td valign="top" background="Template_files/example/inspector_bellamy.jpg"> </td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+          			<td valign="top" background="Template_files/example/lo_and_behold_,_reveries_of_the_connected_world.jpg"> </td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
         		</tr>
         		<tr>
-          			<td align="center" width="1600"><p>Ballad of lefty brown</p></td>
-          			<td align="center" width="1600"><p>Coco</p></td>
-          			<td align="center" width="1600"><p>Explosion</p></td>
-          			<td align="center" width="1600"><p>IT</p></td>
-          			<td align="center" width="1600"><p>Star wars</p></td>
-          			<td align="center" width="1600"><p>Quest (2017)</p></td>
+          			<td align="center" width="1600"><p>Alabama Moon</p></td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+          			<td align="center" width="1600"><p>Before Rains</p></td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+          			<td align="center" width="1600"><p>Bratz</p></td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+          			<td align="center" width="1600"><p>Chance Pe Dance</p></td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+          			<td align="center" width="1600"><p>Hostel Part 2</p></td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+          			<td align="center" width="1600"><p>Human Resources Manager</p></td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+					<td align="center" width="1600"><p>Inspector Bellamy</p></td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+          			<td align="center" width="1600"><p>Lo And Behold</p></td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+        		</tr>
+				<tr>
+          			<td align="center" width="1600"><p>Real: $47，305 <br> Predition: $43，746</p>
+						<font color="OrangeRed">+3559</font></td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+          			<td align="center" width="1600"><p>Real: $1，029，654 <br> Predition: $1，004，578</p>
+						<font color="OrangeRed">+25076</font></td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+          			<td align="center" width="1600"><p>Real: $10，010，208 <br> Predition: $10，045，208</p>
+						<font color="Green">-35000</font></td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+          			<td align="center" width="1600"><p>Real: $168，643 <br> Predition: $150，541</p>
+						<font color="OrangeRed">+18102</font></td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+          			<td align="center" width="1600"><p>Real: $17，609，452 <br> Predition: $17，641，838</p>
+						<font color="Green">-32386</font></td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+          			<td align="center" width="1600"><p>Real: $64，014 <br> Predition: $88，429</p>
+						<font color="Green">-24415</font></td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+					<td align="center" width="1600"><p>Real: $107，611 <br> Predition: $164，259</p>
+						<font color="Green">-56648</font></td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
+          			<td align="center" width="1600"><p>Real: $594，912 <br> Predition: $619，776</p>
+						<font color="Green">-24864</font></td>
+					<td valign="top" width="20" bgcolor="#FFFFFF"> </td>
         		</tr>
       		</table>
 		</td>
@@ -235,21 +297,94 @@ body, html {
 		gpic.onmouseover=function() {clearInterval(MyMar)}
 		gpic.onmouseout=function() {MyMar=setInterval(Marquee,speed)}
 	</script>
-    <p>The Cafe was ....</p>
-    <p>In addition ....</p>
-    <div class="w3-panel w3-leftbar w3-light-grey">
-      <p><i>"Use products from ....</i></p>
-      <p>Chef, ....</p>
-	</div>
   </div>
 </div>
 
 
 <!-- Anaylsing -->
 <div class="w3-container" id="where" style="padding-bottom:32px;">
-  <div class="w3-content" style="max-width:700px">
-    <h5 class="w3-center w3-padding-48"><span class="w3-tag w3-wide">Anaylsing</span></h5>
-    <p>Find us at some address at some place.</p>
+  <div class="w3-content" style="max-width:990px">
+    <h5 class="w3-center w3-padding-48">
+		<span class="w3-tag w3-wide">ANAYLSING</span></h5>
+	  
+    		<section id="timeline-wrapper">
+    		<div class="container-fluid">
+      		<div class="row">
+        	<div class="timeline-top">
+          	<span class="top-year"></span></div>
+
+        </div>
+        <div class="timeline-block">
+          <div class="timeline-events">
+            <br>
+            <div class="event l-event col-md-6 col-sm-6 col-xs-8 "><span class="thumb fa fa-codepen"></span>
+              <div class=" event-body">
+                
+				  <img width="380px" height="200px" src="Template_files/Linear Model_1000x500.jpg"/>
+				  
+<div class="event-content">
+<h5 class="text-primary text-left">Liner Model </h5>
+
+	<!--
+                <blockquote class="text-muted text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat ipsum voluptates sapiente beatae non praesentium vitae dolorum qui, reprehenderit harum <br>
+<cite class="text-muted text-right text-bold">- Alex Martin</cite>
+</blockquote>   -->
+
+</div>
+              </div> <!-- end of event body -->
+<div class="clear-fix"></div>
+            </div><!-- end of left event -->
+            <div class="row"></div>
+            <div class="event r-event col-md-6 col-sm-6 col-xs-8 "><span class="thumb fa fa-facebook"></span>
+              <div class=" event-body">
+				 
+                <img width="380px" height="200px" src="Template_files/SVR_Model_1000x500.jpg"  />
+<div class="event-content">
+<h5 class="text-primary text-left">SVR Model with RBF Kernel </h5>
+
+</div>
+              </div>
+            </div><!-- end of right event <-->
+              <div class="clearfix"></div>
+            
+            <div class="row"></div>
+            <div class="event l-event col-md-6 col-sm-6 col-xs-8 "><span class="thumb fa fa-twitter"></span>
+              <div class=" event-body">
+				 
+                <img width="380px" height="200px" src="Template_files/dnn_cost_1000x500.jpg"  />
+<div class="event-content">
+<h5 class="text-primary text-left">Deep Neural Network--Cost </h5>
+
+                </div>
+</div>
+            </div><!-- end of left event <-->
+              <div class="clearfix"></div>
+            
+            <div class="row"></div>
+            <div class="event r-event col-md-6 col-sm-6 col-xs-8 ">
+              <span class="thumb fa fa-codepen"></span>
+             <div class=" event-body">
+				
+                <img width="380px" height="200px" src="Template_files/dnn_histogram_1000x500.jpg"  />
+<div class="event-content">
+<h5 class="text-primary text-left">Deep Neural Network </h5>      
+                </div>
+</div>
+            </div><!-- end of right event <-->
+              <div class="clearfix"></div>
+            
+          </div><!-- end of timeline events -->
+          <div class="clearfix"></div>
+        </div>
+      </div>
+    
+  </section>
+<br /><hr />
+<footer class="text-center"> </footer>
+  <script src="Template_files/jquery.min.js"></script>
+<script src="Template_files/TweenMax.min.js"></script>
+
+    <script src="Template_files/index.js"></script>
   </div>
 </div>
 
