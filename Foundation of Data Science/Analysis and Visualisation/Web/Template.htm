@@ -45,10 +45,10 @@ body, html {
       <a href="#" class="w3-button w3-block w3-black">HOME</a>
     </div>
     <div class="w3-col s3">
-      <a href="#about" class="w3-button w3-block w3-black">ABOUT</a>
+      <a href="#about" class="w3-button w3-block w3-black">WHAT WE FOUND</a>
     </div>
     <div class="w3-col s3">
-      <a href="#menu" class="w3-button w3-block w3-black">MENU</a>
+      <a href="#menu" class="w3-button w3-block w3-black">ABOUT EXAMPLES</a>
     </div>
     <div class="w3-col s3">
       <a href="#where" class="w3-button w3-block w3-black">WHERE</a>
@@ -70,10 +70,129 @@ body, html {
 <!-- Add a background color and large text to the whole page -->
 <div class="w3-sand w3-grayscale w3-large">
 
-<!-- About Container -- RRRRRRReference：https://zhidao.baidu.com/question/401729592.html-->
+
+<!-- What we found Container -->
+<div class="w3-container" id="menu">
+  <div class="w3-content" style="max-width:930px">
+ 
+    <h5 class="w3-center w3-padding-48"><span class="w3-tag w3-wide">WHAT WE FOUND</span></h5>
+  
+    <div class="w3-row w3-center w3-card w3-padding">
+      <a href="javascript:void(0)" onclick="openMenu(event, 'Distribution');" id="myLink">
+        <div class="w3-col s6 tablink w3-dark-grey">Distribution</div>
+      </a>
+      <a href="javascript:void(0)" onclick="openMenu(event, 'Relation');">
+        <div class="w3-col s6 tablink">Relation</div>
+      </a>
+    </div>
+
+    <div id="Distribution" class="w3-container menu w3-padding-48 w3-card" style="display: block;">
+      <table border="0" align="center" cellpadding="0" cellspacing="0" layout:fixed>
+  	<tr>
+    	<td id="dist1" valign="top" align="center">
+			<table width="900px" border="0" align="left" cellpadding="0" cellspacing="0" layout:fixed>
+        		<!-- The 1st row -->
+				<tr>
+          			<td height="200" background="Template_files/histgram/Actorinfluenceaverage_320x213.jpg"> </td>
+					<td height="200" background="Template_files/histgram/Average_Gross_for_each_movie_320x213.jpg"> </td>
+					<td height="200" background="Template_files/histgram/Genre_320x213.jpg"> </td>
+        		</tr>
+        		<tr>
+          			<td align="center" width="1600"><p>Actor-Film</p></td>
+					<td align="center" width="1600"><p>Average gross(each film)</p></td>
+					<td align="center" width="1600"><p>Genre</p></td>
+        		</tr>
+				<!-- The 2nd row -->
+				<tr>
+          			<td height="200" background="Template_files/histgram/googletrends_320x213.jpg"> </td>
+					<td height="200" background="Template_files/histgram/imdbRating_320x213.jpg"> </td>
+					<td height="200" background="Template_files/histgram/Rated_320x213.jpg"> </td>
+        		</tr>
+        		<tr>
+          			<td align="center" width="1600"><p>Google Trends</p></td>
+					<td align="center" width="1600"><p>IMDB</p></td>
+					<td align="center" width="1600"><p>Rated or not</p></td>
+        		</tr>
+				<!-- The 3th row -->
+				<tr>
+          			<td height="200" background="Template_files/histgram/Runtime_320x213.jpg"> </td>
+					<td height="200" background="Template_files/histgram/Theaters_320x213.jpg"> </td>
+        		</tr>
+        		<tr>
+          			<td align="center" width="1600"><p>Running Time</p></td>
+					<td align="center" width="1600"><p>Theaters</p></td>
+        		</tr>
+				<!-- The 4th row -->
+				<tr>
+					<td height="200" background="Template_files/histgram/box_within_rated_320x213.jpg"> </td>
+        		</tr>
+        		<tr>
+					<td align="center" width="1600"><p>Box office - Rated</p></td>
+        		</tr>
+      		</table>
+		</td>
+  	</tr>
+	</table>
+    </div>
+
+    <div id="Relation" class="w3-container menu w3-padding-48 w3-card" style="display: none;">
+      <table border="0" align="center" cellpadding="0" cellspacing="0" layout:fixed>
+  	<tr>
+    	<td id="dist2" valign="top" align="center">
+			<table width="900px" border="0" align="left" cellpadding="0" cellspacing="0" layout:fixed>
+        		<!-- The 1st row -->
+				<tr>
+          			<td height="200" background="Template_files/scatter_plot/Genre_Gross_320x213.jpg"> </td>
+					<td height="200" background="Template_files/scatter_plot/respondingperiod_320x213.jpg"> </td>
+        		</tr>
+        		<tr>
+          			<td align="center" width="1600"><p>Genre</p></td>
+					<td align="center" width="1600"><p>Responding period</p></td>
+        		</tr>
+				<!-- The 2nd row -->
+				<tr>
+          			<td height="200" background="Template_files/scatter_plot/Actor_Gross_320x213.jpg"> </td>
+					<td height="200" background="Template_files/scatter_plot/Directer_Gross_320x213.jpg"> </td>
+					<td height="200" background="Template_files/scatter_plot/Google_Gross_320x213.jpg"> </td>
+        		</tr>
+        		<tr>
+          			<td align="center" width="1600"><p>Actor</p></td>
+					<td align="center" width="1600"><p>Director</p></td>
+					<td align="center" width="1600"><p>Google Trends</p></td>
+        		</tr>
+				<!-- The 3th row -->
+				<tr>
+          			<td height="200" background="Template_files/scatter_plot/imdb_gross_320x213.jpg"> </td>
+					<td height="200" background="Template_files/scatter_plot/Lastyear_Gross_320x213.jpg"> </td>
+					<td height="200" background="Template_files/scatter_plot/runtime_Gross_320x213.jpg"> </td>
+        		</tr>
+        		<tr>
+          			<td align="center" width="1600"><p>IMDB</p></td>
+					<td align="center" width="1600"><p>Last year</p></td>
+					<td align="center" width="1600"><p>Running time</p></td>
+        		</tr>
+				<!-- The 4th row -->
+				<tr>
+					<td height="200" background="Template_files/scatter_plot/Theaters_Gross_320x213.jpg"> </td>
+        		</tr>
+        		<tr>
+					<td align="center" width="1600"><p>Theaters</p></td>
+        		</tr>
+      		</table>
+		</td>
+  	</tr>
+	</table>
+    </div> 
+	  <!--
+    <img src="Template_files/coffeehouse2.jpg" style="width:100%;max-width:1000px;margin-top:32px;">
+	-->
+  </div>
+</div>
+	
+<!-- About example -- RRRRRRReference：https://zhidao.baidu.com/question/401729592.html-->
 <div class="w3-container" id="about">
   <div class="w3-content" style="max-width:900px">
-	<h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">ABOUT THE EXAMPLE</span></h5>
+	<h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">ABOUT EXAMPLES</span></h5>
 	<div id="gpic" style="overflow:hidden; weight:992px height:360px;">
 	<table border="0" align="center" cellpadding="0" cellspacing="0" layout:fixed>
   	<tr>
@@ -81,6 +200,7 @@ body, html {
 			<table width="1600" border="0" align="left" cellpadding="0" cellspacing="0" layout:fixed>
         		<tr>
           			<td height="400" background="Template_files/ballad_of_lefty_brown_270x400.jpg"> </td>
+					<rd valign="top" width="20" bgcolor="#FFFFFF"> </rd>
           			<td valign="top" background="Template_files/coco_270x400.jpg"> </td>
           			<td valign="top" background="Template_files/explosion_270x400.jpg"> </td>
           			<td valign="top" background="Template_files/IT-poster_270x400.jpg"> </td>
@@ -115,93 +235,21 @@ body, html {
 		gpic.onmouseover=function() {clearInterval(MyMar)}
 		gpic.onmouseout=function() {MyMar=setInterval(Marquee,speed)}
 	</script>
-    <p>The Cafe was founded in blabla by Mr. Smith in lorem ipsum dolor 
-sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
-ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    <p>In addition to our full espresso and brew bar menu, we serve 
-fresh made-to-order breakfast and lunch sandwiches, as well as a 
-selection of sides and salads and other good stuff.</p>
+    <p>The Cafe was ....</p>
+    <p>In addition ....</p>
     <div class="w3-panel w3-leftbar w3-light-grey">
-      <p><i>"Use products from nature for what it's worth - but never too early, nor too late." Fresh is the new sweet.</i></p>
-      <p>Chef, Coffeeist and Owner: Liam Brown</p>
-    </div>
-    <img src="Template_files/coffeeshop.jpg" style="width:100%;max-width:1000px" class="w3-margin-top">
-    <p><strong>Opening hours:</strong> everyday from 6am to 5pm.</p>
-    <p><strong>Address:</strong> 15 Adr street, 5015, NY</p>
+      <p><i>"Use products from ....</i></p>
+      <p>Chef, ....</p>
+	</div>
   </div>
 </div>
 
-<!-- Menu Container -->
-<div class="w3-container" id="menu">
-  <div class="w3-content" style="max-width:700px">
- 
-    <h5 class="w3-center w3-padding-48"><span class="w3-tag w3-wide">THE MENU</span></h5>
-  
-    <div class="w3-row w3-center w3-card w3-padding">
-      <a href="javascript:void(0)" onclick="openMenu(event, 'Eat');" id="myLink">
-        <div class="w3-col s6 tablink w3-dark-grey">Eat</div>
-      </a>
-      <a href="javascript:void(0)" onclick="openMenu(event, 'Drinks');">
-        <div class="w3-col s6 tablink">Drink</div>
-      </a>
-    </div>
 
-    <div id="Eat" class="w3-container menu w3-padding-48 w3-card" style="display: block;">
-      <h5>Bread Basket</h5>
-      <p class="w3-text-grey">Assortment of fresh baked fruit breads and muffins 5.50</p><br>
-    
-      <h5>Honey Almond Granola with Fruits</h5>
-      <p class="w3-text-grey">Natural cereal of honey toasted oats, raisins, almonds and dates 7.00</p><br>
-    
-      <h5>Belgian Waffle</h5>
-      <p class="w3-text-grey">Vanilla flavored batter with malted flour 7.50</p><br>
-    
-      <h5>Scrambled eggs</h5>
-      <p class="w3-text-grey">Scrambled eggs, roasted red pepper and garlic, with green onions 7.50</p><br>
-    
-      <h5>Blueberry Pancakes</h5>
-      <p class="w3-text-grey">With syrup, butter and lots of berries 8.50</p>
-    </div>
-
-    <div id="Drinks" class="w3-container menu w3-padding-48 w3-card" style="display: none;">
-      <h5>Coffee</h5>
-      <p class="w3-text-grey">Regular coffee 2.50</p><br>
-    
-      <h5>Chocolato</h5>
-      <p class="w3-text-grey">Chocolate espresso with milk 4.50</p><br>
-    
-      <h5>Corretto</h5>
-      <p class="w3-text-grey">Whiskey and coffee 5.00</p><br>
-    
-      <h5>Iced tea</h5>
-      <p class="w3-text-grey">Hot tea, except not hot 3.00</p><br>
-    
-      <h5>Soda</h5>
-      <p class="w3-text-grey">Coke, Sprite, Fanta, etc. 2.50</p>
-    </div>  
-    <img src="Template_files/coffeehouse2.jpg" style="width:100%;max-width:1000px;margin-top:32px;">
-  </div>
-</div>
-
-<!-- Contact/Area Container -->
+<!-- Anaylsing -->
 <div class="w3-container" id="where" style="padding-bottom:32px;">
   <div class="w3-content" style="max-width:700px">
-    <h5 class="w3-center w3-padding-48"><span class="w3-tag w3-wide">WHERE TO FIND US</span></h5>
+    <h5 class="w3-center w3-padding-48"><span class="w3-tag w3-wide">Anaylsing</span></h5>
     <p>Find us at some address at some place.</p>
-    <div id="googleMap" class="w3-sepia" style="width: 100%; height: 400px; position: relative; overflow: hidden;"><div style="height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background-color: rgb(229, 227, 223);"><div class="gm-err-container"><div class="gm-err-content"><div class="gm-err-icon"><img src="Template_files/icon_error.png" draggable="false" style="-moz-user-select: none;"></div><div class="gm-err-title">Sorry! Something went wrong.</div><div class="gm-err-message">This page didn't load Google Maps correctly. See the JavaScript console for technical details.</div></div></div></div></div>
-    <p><span class="w3-tag">FYI!</span> We offer full-service catering 
-for any event, large or small. We understand your needs and we will 
-cater the food to satisfy the biggerst criteria of them all, both look 
-and taste.</p>
-    <p><strong>Reserve</strong> a table, ask for today's special or just send us a message:</p>
-    <form action="/action_page.php" target="_blank">
-      <p><input class="w3-input w3-padding-16 w3-border" placeholder="Name" required="" name="Name" type="text"></p>
-      <p><input class="w3-input w3-padding-16 w3-border" placeholder="How many people" required="" name="People" type="number"></p>
-      <p><input class="w3-input w3-padding-16 w3-border" placeholder="Date and time" required="" name="date" value="2017-11-16T20:00" type="datetime-local"></p>
-      <p><input class="w3-input w3-padding-16 w3-border" placeholder="Message \ Special requirements" required="" name="Message" type="text"></p>
-      <p><button class="w3-button w3-black" type="submit">SEND MESSAGE</button></p>
-    </form>
   </div>
 </div>
 
@@ -210,26 +258,10 @@ and taste.</p>
 
 <!-- Footer -->
 <footer class="w3-center w3-light-grey w3-padding-48 w3-large">
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+  <p> AWALONG </p>
 </footer>
 
-<!-- Add Google Maps -->
 <script>
-function myMap()
-{
-  myCenter=new google.maps.LatLng(41.878114, -87.629798);
-  var mapOptions= {
-    center:myCenter,
-    zoom:12, scrollwheel: false, draggable: false,
-    mapTypeId:google.maps.MapTypeId.ROADMAP
-  };
-  var map=new google.maps.Map(document.getElementById("googleMap"),mapOptions);
-
-  var marker = new google.maps.Marker({
-    position: myCenter,
-  });
-  marker.setMap(map);
-}
 
 // Tabbed Menu
 function openMenu(evt, menuName) {
